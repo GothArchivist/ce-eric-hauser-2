@@ -1,0 +1,1443 @@
+{
+  "event_id": "f12b2191-1744-4dbd-8dd9-6f4d95e73aeb",
+  "source_id": "e45148db-a25d-462b-9fd3-eb805594139b",
+  "set": "mssa_hvt_2348_p2of2_transcript.txt [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 24.25,
+      "annotation": [
+        {
+          "text": "\t\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "16014075-db30-42f7-b123-ddf4dc3b2647"
+    },
+    {
+      "start_time": 24.25,
+      "end_time": 26.2,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: You have an interesting collection of notes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8ac98d14-c951-4022-bdb6-bb0023d4d0d3"
+    },
+    {
+      "start_time": 26.2,
+      "end_time": 34.002,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Oh, gosh, yeah. Oh, it's-- it's-- I se-- I sent him copies of a lot of things, too.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c498357-62d6-4856-8893-67df408fa0f9"
+    },
+    {
+      "start_time": 34.002,
+      "end_time": 34.37,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: OK.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bdab3233-9cc4-402a-8416-5b5dca2af41e"
+    },
+    {
+      "start_time": 34.37,
+      "end_time": 57.39,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: For ins-- OK, yeah. B-- but one of the-- one of the things I-- I sent to Robert [? Madsen, ?] who was, uh, m-- my buddy when-- when we captured Kaltenbrunner, um, I remember was the copy of the secret orders from the, uh, colonel in our outfit telling us to go to Altaussee. It was a secret. My grandson was very much impressed with it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e17cc8b9-6bfd-4dc0-9887-29d520c29f7c"
+    },
+    {
+      "start_time": 57.39,
+      "end_time": 58.77,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: [CHUCKLES]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd4629e1-fcf3-4a08-9366-4bfff159816c"
+    },
+    {
+      "start_time": 58.77,
+      "end_time": 96.28,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: But h-- he-- he's only 13. Anyhow, this, uh, this medal here belonged to a Major Scheidler, was the adjutant to General Ernst Kaltenbrunner. And when Bob captured him, uh, Kaltenbrunner had badge number two. Badge number one had belonged to Himmler. And badge number two, uh, was, um, the badge of, uh, Kaltenbrunner. He kept that, and Bob gave me Scheidler's badge, which I have here.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ab931862-8b43-47b1-bead-137470e8a38a"
+    },
+    {
+      "start_time": 96.28,
+      "end_time": 114.16,
+      "annotation": [
+        {
+          "text": "\tThen just a couple of little, minor things. You know, in Germany, during the war, during the regime, Nazi regime, people didn't say hello to each other. They said Heil Hitler. And after into it so many times, because it was just a force a habit. Of course, I'd-- I would get on him.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7355c29f-3b52-40e4-9d75-73840725522b"
+    },
+    {
+      "start_time": 114.16,
+      "end_time": 142.29,
+      "annotation": [
+        {
+          "text": "\tHe says, uh, uh, [Sie dürfen nicht -- Sie brauchen nicht das zu sagen] You don't have to say that anymore. So they'd excuse themselves. But you know, the picture, "
+        },
+        {
+          "text": "Schindler's",
+          "italic": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "List",
+          "italic": true
+        },
+        {
+          "text": " was interesting. Um, whenever the Nazi's greet each other, they'd all say hello. None of them said Heil Hitler. There's only one Heil Hitler in the whole movie. And that was when the, uh, that, uh, the notorious colonel who was in charge of the camp, uh--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4e0053d4-7f7d-46a4-8f19-b7410b1361d9"
+    },
+    {
+      "start_time": 142.29,
+      "end_time": 142.64,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Goth.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7f1c6102-cdbc-4da2-a04e-e58064f8e04c"
+    },
+    {
+      "start_time": 142.64,
+      "end_time": 143.94,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: --where-- uh, beg pardon?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd22c62d-691c-4abd-9ec8-d6da3833d486"
+    },
+    {
+      "start_time": 143.94,
+      "end_time": 144.37,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Goth.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ccf794f5-7277-4fcb-bc18-7281d25c5673"
+    },
+    {
+      "start_time": 144.37,
+      "end_time": 145.74,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Uh, d-- Goth?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "99f2d1b6-15cb-4d1f-b6ab-9a21cadffe69"
+    },
+    {
+      "start_time": 145.74,
+      "end_time": 146.61,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Yeah. G-O--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "393fbeba-951e-43a7-97e4-8f7e1139a613"
+    },
+    {
+      "start_time": 146.61,
+      "end_time": 147.12,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: What was his name?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0c3bf8b2-8197-4048-ab0c-799797aadbed"
+    },
+    {
+      "start_time": 147.12,
+      "end_time": 147.53,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: --T-H.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8806f8a6-14c1-4c1f-992f-7c2a2baa7c8f"
+    },
+    {
+      "start_time": 147.53,
+      "end_time": 167.07,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yeah, right. When he went to the gallows, if you saw the picture, you'll remember it was-- it-- it was-- I liked where they kept the boxes away. It was-- it wasn't very dignified, anyhow. He said Heil Hitler. It was the only time anybody in the whole movie said Heil Hitler. I'm just struck by that. I don't know. Was it oversight, or what?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2d310c88-17ac-4536-bb2f-446b46662557"
+    },
+    {
+      "start_time": 167.07,
+      "end_time": 171.42,
+      "annotation": [
+        {
+          "text": "\tAnd, um, let's see now.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9fe28c45-c086-49bf-be8f-53b00989c8ef"
+    },
+    {
+      "start_time": 171.42,
+      "end_time": 174.03,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: You know, if you could tell us a bit, you said when you came back--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ed32776-fcd7-4845-9cd9-344cfda74599"
+    },
+    {
+      "start_time": 174.03,
+      "end_time": 174.325,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "13bf34f5-8685-4154-9cd3-34722bc69d4b"
+    },
+    {
+      "start_time": 174.325,
+      "end_time": 175.41,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: --to the States, after you were--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "726876d6-a053-4193-8452-7ecbb8aabfb4"
+    },
+    {
+      "start_time": 175.41,
+      "end_time": 175.82,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Right, right.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a0d73816-4e52-43c3-825e-afab06feab4f"
+    },
+    {
+      "start_time": 175.82,
+      "end_time": 176.58,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: --uh, decommissioned--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "04c6e335-06d6-4500-a717-f177fcbf5b8f"
+    },
+    {
+      "start_time": 176.58,
+      "end_time": 177.19,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yeah, yeah.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4e2db3ef-f2b2-4c24-8607-a8843fee3a7c"
+    },
+    {
+      "start_time": 177.19,
+      "end_time": 181.12,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: --that you told people about what you had seen in Ebensee.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "24e2efb5-2b96-4fd7-be3b-b1a5fd0cce21"
+    },
+    {
+      "start_time": 181.12,
+      "end_time": 181.52,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yeah.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a949e415-1e57-40fd-a864-5cf34e872459"
+    },
+    {
+      "start_time": 181.52,
+      "end_time": 182.19,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: And I am curious--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "edbfcedc-c86e-49ee-9396-83105550c987"
+    },
+    {
+      "start_time": 182.19,
+      "end_time": 183.21,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yeah.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "24ecbfe2-2ecf-44ff-8ce1-9d30199fab05"
+    },
+    {
+      "start_time": 183.21,
+      "end_time": 187.58,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: --about what the responses of people here were to what you saw?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1035fafb-0cea-4153-adfc-4f231e52db72"
+    },
+    {
+      "start_time": 187.58,
+      "end_time": 210.6,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yep, yeah. Well, by that time, people were beginning to find out. See, I-- I didn't get back-- the war was over in May, and I didn't get back until-- I think it was about the end of November, 1945. People were beginning to find out. Although I don't think they can still visualize it, unless they'd actually seen it. That's why I tell people to go to a museum and things like that, you know? And-- and, um--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2b77eaea-f945-4a5b-ad1f-bc8007c4b729"
+    },
+    {
+      "start_time": 210.6,
+      "end_time": 211.2,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: And--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "70d5b9f5-c76a-4736-836e-a8e132ea6202"
+    },
+    {
+      "start_time": 211.2,
+      "end_time": 216.21,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: And my family, you know, I-- I-- I'm-- they-- they-- they they went to the museum. My grandson saw it, too.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "27c0e1e9-3a4a-48cb-aeb0-cfef66061c6b"
+    },
+    {
+      "start_time": 216.21,
+      "end_time": 222.36,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Mm-hmm. Now, did you-- is this something you discussed once, and never talked about again?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "96f24298-40b2-4b5a-81a9-671090b94c60"
+    },
+    {
+      "start_time": 222.36,
+      "end_time": 235.52,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Frankly, most times I discuss it with people who were involved, like Bob [? Madsen ?] or George Havas. When I visited, I was in Washington three or four days. We spent hours talking about it. It was mostly people who were involved with it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2cc4192d-8c97-4b30-ac53-551ee75cba5d"
+    },
+    {
+      "start_time": 235.52,
+      "end_time": 236.11,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Mm-hmm.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "acf7953f-d9ef-4256-be72-8808a8932b18"
+    },
+    {
+      "start_time": 236.11,
+      "end_time": 236.91,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: You know?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ae1aecc9-348f-412c-9fa0-6dc049282651"
+    },
+    {
+      "start_time": 236.91,
+      "end_time": 241.08,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: So this was not something you told your children about, or--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b0ee7053-6990-4cf7-9599-25f775ecddab"
+    },
+    {
+      "start_time": 241.08,
+      "end_time": 260.97,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Well, uh, a little bit. They didn't-- they didn't, uh, e-- even my-- I remember, my father knew about it, but they never pressed me for anything about it. But then-- then I though-- then-- then, all of a sudden, when people now are beginning to feel that we shall not forget.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2d252ef5-96b9-4485-8373-e3e41966a771"
+    },
+    {
+      "start_time": 260.97,
+      "end_time": 279.92,
+      "annotation": [
+        {
+          "text": "\tThis movement, you know? It's-- it wasn't always that way. One point, I thought that people would forget about everything. But now this whole thing, is movement, you know, the-- the-- remember [INAUDIBLE] Memorial and the-- the movie and so forth and so on, and what you people are doing here. Uh, I th-- I think it's wonderful, and it's reviving the interest in it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "698f3a6a-c186-44c0-acf1-a70f0cf023f7"
+    },
+    {
+      "start_time": 279.92,
+      "end_time": 297.96,
+      "annotation": [
+        {
+          "text": "\tSo, um, um, now, I've talked to people who have seen "
+        },
+        {
+          "text": "Schindler's",
+          "italic": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "List",
+          "italic": true
+        },
+        {
+          "text": " and I've told them that I'd seen similar things like that, too. I'd been in the camp. But, um, s-- truthfully, no-- some people aren't interested that much.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6cd39abf-7ccf-4ffc-bffd-8bef68725cab"
+    },
+    {
+      "start_time": 297.96,
+      "end_time": 300.31,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Now, when Mr. Havas ? sought you out--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5c2e2a70-f437-4757-a785-60368b7ebb08"
+    },
+    {
+      "start_time": 300.31,
+      "end_time": 301.28,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yeah.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c4f03a0e-fb75-4c7f-aaf7-871a063945b5"
+    },
+    {
+      "start_time": 301.28,
+      "end_time": 301.39,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Um--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1d45ed0f-4fc5-407e-915c-bd1741f71f6b"
+    },
+    {
+      "start_time": 301.39,
+      "end_time": 307.93,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Well, at Ebensee. He was thrilled that-- that I had been to Ebensee, that he'd met somebody who'd been at Ebensee.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd6b6878-59ef-4325-9eec-7b1bff943897"
+    },
+    {
+      "start_time": 307.93,
+      "end_time": 309.86,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: And that's what he was looking for, people who--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a70a65e9-214b-410e-a907-6ece6de235cf"
+    },
+    {
+      "start_time": 309.86,
+      "end_time": 310.25,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yep, yep, yep, yep.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "43da4bae-3994-422a-b1ab-2a8f76d6f913"
+    },
+    {
+      "start_time": 310.25,
+      "end_time": 310.79,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: --had, uh--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c5c21c0f-d5f0-45a6-82af-b67bfb40b690"
+    },
+    {
+      "start_time": 310.79,
+      "end_time": 312.96,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yep, yep, yep. People who were connected with it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "193ddb1b-1d87-4b76-883c-cc32bab0a7f3"
+    },
+    {
+      "start_time": 312.96,
+      "end_time": 313.93,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Connected with that.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cddf0060-09ef-4a56-a96e-2578721af6d3"
+    },
+    {
+      "start_time": 313.93,
+      "end_time": 342.02,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yeah, that's right. Yeah. Matter of fact, he told me about, um, well, I don't know-- well, I think there's something here. Maybe we can talk about it. Nurses. He-- he had heard that th-- there were some nurses there. Now, this picture, I have to call him or write to him. It's a little bit mysterious. I'm not sure-- is this-- do you recognize anybody-- women here?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b149fcee-945a-44f2-863b-f3d1f242a6bf"
+    },
+    {
+      "start_time": 342.02,
+      "end_time": 343.43,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: It would be hard for us to--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4dd70cd2-64ab-4f8e-a42a-353ff74d7b18"
+    },
+    {
+      "start_time": 343.43,
+      "end_time": 343.77,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yeah, I--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "46f7966d-f96b-4e66-9213-e8a5021325dd"
+    },
+    {
+      "start_time": 343.77,
+      "end_time": 344.16,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Yeah.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a01a68d6-15c4-437c-bd0d-e8a1f2ec6e6d"
+    },
+    {
+      "start_time": 344.16,
+      "end_time": 353.44,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Now, this-- supposedly, this gentleman here was an inmate. And he was working with the counterfeiters. But he doesn't look like an inmate here. He looks pretty well fed.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6c3c24e1-8d09-433b-b782-f9a1524ee641"
+    },
+    {
+      "start_time": 353.44,
+      "end_time": 354.03,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Mm-hmm.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d731185-c228-407c-b200-4658a12ac792"
+    },
+    {
+      "start_time": 354.03,
+      "end_time": 355.67,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: So the picture might have been taken later.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d5ef62e7-fce8-423d-a5da-e6c754bb95bf"
+    },
+    {
+      "start_time": 355.67,
+      "end_time": 356.22,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Later.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd67962c-bbcf-4353-8755-d740e755875d"
+    },
+    {
+      "start_time": 356.22,
+      "end_time": 357.3,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: I have no idea. But he--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "693d9365-64cd-4c33-b439-a5c9daf9070d"
+    },
+    {
+      "start_time": 357.3,
+      "end_time": 358.19,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: And where did you get that?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c0ca0089-e812-4426-a645-a31ffedc721e"
+    },
+    {
+      "start_time": 358.19,
+      "end_time": 361.38,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: He-- he send-- he-- George sent me that a few days ago.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6bd5131c-9623-45f7-936b-d944e066a59b"
+    },
+    {
+      "start_time": 361.38,
+      "end_time": 362.166,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: From-- that's--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ac81d3ff-e4cc-4922-b98f-f122db19a499"
+    },
+    {
+      "start_time": 362.166,
+      "end_time": 362.56,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Mr. Havas?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "590d7b6c-e445-48fa-8e12-e8171e040fad"
+    },
+    {
+      "start_time": 362.56,
+      "end_time": 365.05,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: [INAUDIBLE]. Yes. He knew I was coming here. That's why he sent it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "538c6e3c-7a36-4084-9d1b-a6d813ddfa15"
+    },
+    {
+      "start_time": 365.05,
+      "end_time": 365.31,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Uh-huh.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9479e2c0-2ecc-4a60-b098-50cc6259fd94"
+    },
+    {
+      "start_time": 365.31,
+      "end_time": 365.67,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Oh, I see.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "001106ae-57a7-4bd3-817b-f0673899d13e"
+    },
+    {
+      "start_time": 365.67,
+      "end_time": 391,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Mr. Havas did that. In other words, he wanted me to have you people get this picture. Um, let's see. Uh, here. Well, just-- I'll just read briefly here. Um, \"If you can do so, please get this copy of a photo to that museum which has the photos from the nurse.\" He thinks that people are the photos that the nurse--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ee7b5a3c-a318-4e76-8cca-29d0c113e22f"
+    },
+    {
+      "start_time": 391,
+      "end_time": 391.34,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Mm-hmm.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "35651888-e9a5-43d8-acd6-4ed0302cd7bb"
+    },
+    {
+      "start_time": 391.34,
+      "end_time": 391.78,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Oh, I see.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "10f5799d-3fb8-4106-9182-350915d60e38"
+    },
+    {
+      "start_time": 391.78,
+      "end_time": 392.56,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: --but apparently not.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bc1d3327-8b02-49af-af7a-5fd57e96ea5e"
+    },
+    {
+      "start_time": 392.56,
+      "end_time": 393.035,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Yeah.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3f539817-1549-4f59-981f-9864e0c33fb8"
+    },
+    {
+      "start_time": 393.035,
+      "end_time": 393.51,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Mm-hmm.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7abaf6e3-ed19-4240-abce-be777700a38b"
+    },
+    {
+      "start_time": 393.51,
+      "end_time": 402.22,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Just \"Ebensee with the, uh, she was with the US Army 30th Field Hospital, and ask them to send it to that nurse as soon as possible.\"\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c390c163-4af6-457d-b39f-4ffdaad93c48"
+    },
+    {
+      "start_time": 402.22,
+      "end_time": 402.34,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Well, that--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b77ad9b2-21c7-48f3-b721-fad6bd3ba09a"
+    },
+    {
+      "start_time": 402.34,
+      "end_time": 402.61,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Send her--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ba976e5c-a9aa-4cc9-a85e-0248c7477569"
+    },
+    {
+      "start_time": 402.61,
+      "end_time": 403.18,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: --we could do for you.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "31b5cd0d-17b4-4d37-a342-83a93c1da05d"
+    },
+    {
+      "start_time": 403.18,
+      "end_time": 403.63,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: You could?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "41a5647b-fe1f-4ea1-99de-f46e315314f3"
+    },
+    {
+      "start_time": 403.63,
+      "end_time": 403.96,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Yes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "529a621b-d404-400d-bdb5-f088effa4cf6"
+    },
+    {
+      "start_time": 403.96,
+      "end_time": 410.89,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Great, great, good. \"I hope she's still alive and well. She is one of the three well-fed babes in this photo which I have\"--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "69d7becc-dbc1-43e0-ad83-f611dbff6366"
+    },
+    {
+      "start_time": 410.89,
+      "end_time": 411.25,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: [CHUCKLES]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5987456-cfb3-419b-b64b-afa8559c4501"
+    },
+    {
+      "start_time": 411.25,
+      "end_time": 438.25,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: --\"which I have from Adolph [? Burger, ?] the healthy-looking fellow in sporty civilian outfit with decent long hair.\" Yes, he does have long hair. \"Former member of the counterfeiting detail, all of whom were supposed to be shot before the Americans got there. Give them my address for transmitting to the nurse, and I'll get in touch with [? Burger, ?] who can send her a regular print as a photo, as he has the negative for this.\"\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1fa440f0-7518-4362-ac1d-bd8c3746c287"
+    },
+    {
+      "start_time": 438.25,
+      "end_time": 439.6,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Mm-hmm.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "62defd86-d0e1-4e38-aadf-ef9f2d63634e"
+    },
+    {
+      "start_time": 439.6,
+      "end_time": 445.36,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: So, um, w-- w-- I-- I-- next time I talk to him, I'm going to find out when this picture was taken.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "08fe627c-ff84-46d7-aac9-9b90059efff5"
+    },
+    {
+      "start_time": 445.36,
+      "end_time": 445.675,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Mm-hmm.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "62f774a3-3812-473c-a22e-a97aafa30a51"
+    },
+    {
+      "start_time": 445.675,
+      "end_time": 450.79,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Well, he may have been in better health because of not going to a work camp. The others were going to--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "69205f9c-ace9-4861-806f-6f03d8e8b57b"
+    },
+    {
+      "start_time": 450.79,
+      "end_time": 462.266,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: True. That's true. Yeah, well. I don't know. I can't fit my-- I suppose the u-- uniform-- yeah, the uniforms look like nurses uniforms, I guess.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f5ca0981-eefa-4e09-b53f-3499ad771c1b"
+    },
+    {
+      "start_time": 462.266,
+      "end_time": 462.69,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: [INAUDIBLE]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f63f363d-808f-4335-94f8-8bb7fbe58c06"
+    },
+    {
+      "start_time": 462.69,
+      "end_time": 467.16,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Were there very few that looked like him in his condition? When you went to the camp?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e372495d-37e7-4a91-b094-332bc5dc4e8a"
+    },
+    {
+      "start_time": 467.16,
+      "end_time": 471.01,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: The only other one I saw was this kapo I saw, in the-- in the ca-- in the crematorium. Yeah.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a01b9727-cf5b-4dae-8d54-92e88c345d6e"
+    },
+    {
+      "start_time": 471.01,
+      "end_time": 472.05,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: The others were all--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd9093cf-3034-43d1-8433-97df7f8db9f3"
+    },
+    {
+      "start_time": 472.05,
+      "end_time": 502.06,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: All emaciated, absolutely. But-- but then-- then I-- I-- I've got to ask George. It-- it seems to me that there are awful lot of young men. This is typical age, young peo-- late teenagers, early 20s. And I-- I-- I don't-- I don't know why they w-- it was the younger men what seemed to be predominant there over the others. George was a younger man, too, when he was there. And in fact, the picture he showed me resembles this guy.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bdd93efa-35c0-4faa-ac00-b6d1ad111e5b"
+    },
+    {
+      "start_time": 502.06,
+      "end_time": 531.64,
+      "annotation": [
+        {
+          "text": "\tOh, a couple other little things. I remember in France, I-- I developed a toothache. And I went b-- back, way behind the lines, to where there was a-- a dental office. Uh, there was a Jewish dentist that t-- took care of it. He wasn't, uh, he didn't have very good equipment. As a matter of fact, just a side thing, his drill was not electrically operated. It was foot treadle, which is very slow and painful.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3f90717c-6cd3-4905-9ff7-cef36c59ac8d"
+    },
+    {
+      "start_time": 531.64,
+      "end_time": 539.37,
+      "annotation": [
+        {
+          "text": "\tSo anyhow, w-- w-- what-- he know I was Jewish. And I-- I went. W-- just before I left, he says, by the way, he says, uh, what outfit, he says?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "730b17c1-9fb1-482d-af7f-bb4aa63dd0eb"
+    },
+    {
+      "start_time": 539.37,
+      "end_time": 541.405,
+      "annotation": [
+        {
+          "text": "\tI'm with the 80th Infantry Division, CIC.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8b87162-d855-4233-8348-c4dd7e2f45f6"
+    },
+    {
+      "start_time": 541.405,
+      "end_time": 551.04,
+      "annotation": [
+        {
+          "text": "\tHe says, well, he says, if you capture any German soldiers and they have Lugers or guns, would you please take them and bring him to me?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4a6889f9-11ea-464b-8050-c1870f816ecc"
+    },
+    {
+      "start_time": 551.04,
+      "end_time": 551.96,
+      "annotation": [
+        {
+          "text": "\tI says, why do you want them?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "074e2087-ac63-4c66-9f91-a39ad381cc3c"
+    },
+    {
+      "start_time": 551.96,
+      "end_time": 562.04,
+      "annotation": [
+        {
+          "text": "\tHe says, so, he says, someday, we're going to f-- fight for Palestine. And we're going to create a new country there. And that's why we want the guns.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "421f6430-2fe3-413b-8f38-20c2c1c45287"
+    },
+    {
+      "start_time": 562.04,
+      "end_time": 562.9,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Huh.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "45b5774d-63e3-42ac-b35e-575dcfb76d03"
+    },
+    {
+      "start_time": 562.9,
+      "end_time": 592.36,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: So it was very interesting. Unfortunately, I-- I-- I-- I did get a couple Lugers, but I couldn't get in touch with him. Oh, o-- one thing I did get-- take, s-- I sent it home. It was a shotgun that had belonged to Scheidler. And, um, and I-- I finally-- finally sold it. [INAUDIBLE] Uh, I got well over $400 for it. I just did-- I didn't know what to do with it at the point. There was no museum around. It was several years ago.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ef0ec557-a154-479a-a0cf-ab01b61d77ce"
+    },
+    {
+      "start_time": 592.36,
+      "end_time": 592.75,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Mm-hmm.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b9654ef3-032a-4cd2-8a03-9d9701f208e5"
+    },
+    {
+      "start_time": 592.75,
+      "end_time": 644.404,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: I might have given it to a museum. The Luger, I don't know what happened to it. It just got lost or stolen somewhere, the Luger itself. Oh, and, um, let's see what else I have in here. [INAUDIBLE]. Uh.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "25973309-294e-450a-8e8f-faf294e5866c"
+    },
+    {
+      "start_time": 644.404,
+      "end_time": 667.09,
+      "annotation": [
+        {
+          "text": "\tOh, I had to correct my grandson. He used to talk about the-- the war-- well, f-- when he was very small, he wanted to know what kind of tanks I rode in. [CHUCKLES] What kind of artillery I had. He was interested in armaments. Then he used to say about the Americans and the Germans fighting each other. Well, his-- his-- his father's of German descent.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d391f261-4fbe-41cb-b305-7f3815f9fc95"
+    },
+    {
+      "start_time": 667.09,
+      "end_time": 683.196,
+      "annotation": [
+        {
+          "text": "\tSo I says, Benjamin, I don't want you to use that word \"German\" anymore. Use \"Nazi\" instead. So to this day, whenever we discuss it, it's the Nazis against the Americans.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d36ba460-3dff-44cc-92b4-2d9043877aa5"
+    },
+    {
+      "start_time": 683.196,
+      "end_time": 697.005,
+      "annotation": [
+        {
+          "text": "\tUh, well, I can't think of anything particular. I'm sure when-- I'm sure when I get home I'll remember other things. Let's see. Did I show you all my pictures?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "13f7acfd-dad2-480e-a9a5-26739a9500f7"
+    },
+    {
+      "start_time": 697.005,
+      "end_time": 699.52,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Well, why don't you show us the one of you [INAUDIBLE]?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8192430b-8d6f-46bb-8e75-d05b7e7954ac"
+    },
+    {
+      "start_time": 699.52,
+      "end_time": 702.23,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yeah, all right. Oh, there's a couple of me.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "075c2221-4a09-439a-bdab-7250f863ad27"
+    },
+    {
+      "start_time": 702.23,
+      "end_time": 704.63,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: The portrait in the, uh, folder is very--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4cf5e712-c32e-4fec-927e-a338f25b793d"
+    },
+    {
+      "start_time": 704.63,
+      "end_time": 730.47,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Oh, in the folder? OK. Yeah, this was taken in Mississippi. And there's one more here. This is when I was dressed up during-- [INAUDIBLE] pass. [INAUDIBLE] the other one when I was-- d-- did you see this one?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "67346d53-e56f-425b-ae8b-d63f91d75363"
+    },
+    {
+      "start_time": 730.47,
+      "end_time": 749.82,
+      "annotation": [
+        {
+          "text": "\tOh, this one, I gotta tell you about. This one-- these two men are anti-Nazi civilian guards. Some of the lower people that we arrested, we keep 'em a few days. And th-- th-- this is-- this building is part of our office building. And we we jailed them there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "af045f62-4865-4d99-a5da-070a5e766abe"
+    },
+    {
+      "start_time": 749.82,
+      "end_time": 765.06,
+      "annotation": [
+        {
+          "text": "\tAnd these two guys were-- uh, were guards there, and I would post the guards myself. So that's myself here. You can't see it, but I'm carrying my .45 here. And these are the two civilian guards. And it says CIC there, Counter Intelligence Corps.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b106d4b3-cca4-451f-91c5-e622f91054cb"
+    },
+    {
+      "start_time": 765.06,
+      "end_time": 768.96,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: How did you determine that they were anti-Nazi? These were civilians--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b355774f-5688-4737-8f49-539616f0df40"
+    },
+    {
+      "start_time": 768.96,
+      "end_time": 769.2,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Well, they--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "147173a8-0d69-403c-923b-d9146fa7215f"
+    },
+    {
+      "start_time": 769.2,
+      "end_time": 769.44,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: --in the town?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5bd9e500-7c8e-4185-ace3-f6ff1d292600"
+    },
+    {
+      "start_time": 769.44,
+      "end_time": 795.27,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: --they-- they volunteered themselves to us. Uh, but we checked them very carefully, too. They-- we-- we interrogated them. Frankly, it was a matter of judgment. They-- they came to us. They said, we-- we were anti-Nazis. Can we do anything for you? And so forth. And they gave us information, which was very helpful in getting Kaltenbrunner. And, um, and then it was a matter of judgment, primarily, too, to find out if they really were.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8c6da709-1fd6-4be7-b2c1-236bc5f0d95e"
+    },
+    {
+      "start_time": 795.27,
+      "end_time": 815.77,
+      "annotation": [
+        {
+          "text": "\tUh, we'd never let them in on anything-- any of our literature that was secret. We had secret documents. For instance, we had a tremendous directory of people who were-- who were supposed to be arrested. It was a top-secret book, but we kept that under lock and key, and we never let these guys, uh, get ahold of any of our information.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a3fc287f-3cde-4201-8930-5f13ad15e0b5"
+    },
+    {
+      "start_time": 815.77,
+      "end_time": 831.39,
+      "annotation": [
+        {
+          "text": "\tMatter of fact, they didn't even-- the-- the-- the-- we learned through them where, possibly, Kaltenbrunner was hiding. But we never told them when-- w-- when we were going to do the actual capturing.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fbd11e55-2a80-4785-85a4-0df7849fc4a2"
+    },
+    {
+      "start_time": 831.39,
+      "end_time": 841.42,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: When you mention that, um, one of the people you arrested said he didn't know about the camp, would that be possible, that someone in the town not know--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "994d11c7-c0bd-40e5-8fd4-19872770f1cf"
+    },
+    {
+      "start_time": 841.42,
+      "end_time": 841.86,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: At that point, I--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e84cd24b-2498-4171-8c2f-e18d8cb87e28"
+    },
+    {
+      "start_time": 841.86,
+      "end_time": 842.25,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: --about the camp?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "93b7bb0e-3af5-4f16-ae6d-90e79e505526"
+    },
+    {
+      "start_time": 842.25,
+      "end_time": 857.2,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: --feel very unlikely. I-- I-- I can't possibly see it. I-- I tell you this. He probably knew-- knew the camp. He may not have known about the slaughtering. He may not have. Uh, that's-- that's-- that's something else.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b5a0e5d1-b83b-46ac-bfea-49320d881836"
+    },
+    {
+      "start_time": 857.2,
+      "end_time": 879.35,
+      "annotation": [
+        {
+          "text": "\tBut, well, in the first place, he knew that as a Nazi, he was supposed to hate the Jews. That's part of the creed or doctrine. He knew that. But to what extent they were to be-- and-- and he knew that, um, uh, there were-- i-- as a Nazi functionary, he was supposed to report any people with Jewish blood in them.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "304c45e3-dda7-4f5f-b327-3f2328bb7ca6"
+    },
+    {
+      "start_time": 879.35,
+      "end_time": 898.96,
+      "annotation": [
+        {
+          "text": "\tBut, uh, w-- that's something-- I-- we were skeptical about it. And we couldn't prove anything, but I-- I personally was skeptical that he didn't know what was going on. I-- I don't know what the re-- what the reaction of other people was. Yeah.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7435da34-8492-42f1-bedb-7f06616f7045"
+    },
+    {
+      "start_time": 898.96,
+      "end_time": 900.17,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Well, we'd like to thank you for coming today--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ec98b7a-b404-466c-bc3a-a4a0d977df20"
+    },
+    {
+      "start_time": 900.17,
+      "end_time": 900.745,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: OK, you're welcome.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e9460a1b-adce-4d14-af4d-de48ecfddf11"
+    },
+    {
+      "start_time": 900.745,
+      "end_time": 901.33,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: --and sharing with us.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "00046ded-4553-4068-bebc-4003aaaf9e67"
+    },
+    {
+      "start_time": 901.33,
+      "end_time": 902.44,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Thank you for the opportunity.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fc5e86d5-c8ee-40ca-bead-e748a7e45484"
+    },
+    {
+      "start_time": 902.44,
+      "end_time": 903.12,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: Well, thank you.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2ecbc839-f14e-4b95-9843-9e997263f898"
+    },
+    {
+      "start_time": 903.12,
+      "end_time": 910.03,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: I hope it will do some good. Now, this picture, uh--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4b767e49-c39d-4337-b76a-dc9cf6cb1451"
+    },
+    {
+      "start_time": 910.03,
+      "end_time": 949,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 1: [INAUDIBLE]."
+        }
+      ],
+      "tags": [],
+      "uuid": "b91e8bf8-7ae9-48d6-a050-6f4d4d90d784"
+    }
+  ]
+}
