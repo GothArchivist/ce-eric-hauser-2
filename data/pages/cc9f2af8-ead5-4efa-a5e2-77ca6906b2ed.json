@@ -836,10 +836,10 @@
   "created_at": "2026-02-22T19:30:52.070Z",
   "created_by": "GothArchivist",
   "title": "Eric Hauser Critical Edition 2",
-  "updated_at": "2026-02-23T01:12:12.268Z",
+  "updated_at": "2026-02-23T01:12:25.209Z",
   "updated_by": "GothArchivist",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   }
 }
