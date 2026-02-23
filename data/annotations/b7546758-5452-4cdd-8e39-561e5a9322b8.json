@@ -1,0 +1,2790 @@
+{
+  "event_id": "3cb251c5-a10f-41ff-85bd-24d6db4a113b",
+  "source_id": "66342018-701e-432c-b1f6-6995690e8942",
+  "set": "mssa_hvt_574_p1of2_transcript.txt [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2.994,
+      "annotation": [
+        {
+          "text": "\t\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f3d2df98-f96e-4bfb-80ae-1e0c13efa468"
+    },
+    {
+      "start_time": 2.994,
+      "end_time": 41.417,
+      "annotation": [
+        {
+          "text": "\t\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "87cdbc59-4dd5-4522-b84e-770357694db5"
+    },
+    {
+      "start_time": 41.417,
+      "end_time": 45.14,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Mr. Houser, all your papers say it's [? Isaak ?] Houser. Should we--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2000b928-60e8-4d6e-a8da-b48b58fb7261"
+    },
+    {
+      "start_time": 45.14,
+      "end_time": 46.86,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: Isaak Houser, I will say this.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd384ffb-e740-4de2-be02-88ecc91779b0"
+    },
+    {
+      "start_time": 46.86,
+      "end_time": 50.02,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Should you-- should we introduce you as Isaak Houser, or--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d5c8dcaa-760d-4e5b-bce6-e92e122ec566"
+    },
+    {
+      "start_time": 50.02,
+      "end_time": 53.79,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: Well, you can-- I say here my-- my Jewish name was Isaak Houser--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d0229a6a-4cb6-4d78-be35-918536fc4be1"
+    },
+    {
+      "start_time": 53.79,
+      "end_time": 54.33,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: OK. Fine. OK.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cfeb77b5-c500-4b89-8956-2c10091473e0"
+    },
+    {
+      "start_time": 54.33,
+      "end_time": 55.07,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: [INAUDIBLE].\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5e499c16-b70e-468d-8275-f12a24c63bf9"
+    },
+    {
+      "start_time": 55.07,
+      "end_time": 56.88,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: OK.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "37b968b8-7eb5-4766-bc54-2dbcb929a96c"
+    },
+    {
+      "start_time": 56.88,
+      "end_time": 58.46,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: Whatever--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2b3afc67-b36c-44ef-88d4-2eb399d15837"
+    },
+    {
+      "start_time": 58.46,
+      "end_time": 59.21,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: OK.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bc54682d-0b15-4ca9-adb4-c3258d0b6a9d"
+    },
+    {
+      "start_time": 59.21,
+      "end_time": 59.93,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: OK?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "78d5deb9-6deb-4b56-89bc-2219a4709315"
+    },
+    {
+      "start_time": 59.93,
+      "end_time": 78.15,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Yes, this is Eric Houser. Um, And today is 29th of April. And if you would like to begin, Mr. Houser. And perhaps you can tell us a little bit of your childhood and your hometown.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "929c6e53-275c-4f27-96dc-34dbb19fc9c5"
+    },
+    {
+      "start_time": 78.15,
+      "end_time": 85.91,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: Thank you, ma'am. My name is Eric Houser. My Jewish name is Isaak Houser-- actually, Itzhak Houser.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b7273fc3-ead6-4b90-9ceb-d653a161dfde"
+    },
+    {
+      "start_time": 85.91,
+      "end_time": 102.92,
+      "annotation": [
+        {
+          "text": "\tI was born in a town of Grodek It's a very old town in Poland, which goes back to the year 1300, from the time of princes who were named Jagiełło. The Americans called them Jogaila.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e99d3c59-4694-420a-8448-9e19f60090b1"
+    },
+    {
+      "start_time": 102.92,
+      "end_time": 119.39,
+      "annotation": [
+        {
+          "text": "\tMy grandfather was the president of the Jewish community in this town. It was a very old town with a very old Jewish population and a very old cemetery. I went there to high school. It was a Catholic high school.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "77ae9022-3f4b-403f-b493-6f6002ae9bb8"
+    },
+    {
+      "start_time": 119.39,
+      "end_time": 135.74,
+      "annotation": [
+        {
+          "text": "\tBut my grandfather was the president of the Jewish community. As such, he had enough influence to place me in the Catholic high school which I finished. I was the valedictorian. And I finished my studies down there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "54bde3f4-a5c3-4688-983c-42f30192f7c8"
+    },
+    {
+      "start_time": 135.74,
+      "end_time": 173.26,
+      "annotation": [
+        {
+          "text": "\tAnd from there, I decided to study engineering. They did not accept Jewish students on the Polish polytechnical school, so I had to go to Czechoslovakia. I finished my engineering studies with a master's degree in electrical and mechanical engineering in Czechoslovakia. This diploma was not acknowledged by the Polish authorities. And when I came back home to Poland, I had to undergo what is called nostrification, which means another exam in the Polish language.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "52a56456-6f41-401b-a243-60f7f0f1fed2"
+    },
+    {
+      "start_time": 173.26,
+      "end_time": 182.89,
+      "annotation": [
+        {
+          "text": "\tOne could not get work near Lwów, where my parents were. My father was a building contractor. He built small houses.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f6630430-23bd-45ac-86f3-44ba8306c0c6"
+    },
+    {
+      "start_time": 182.89,
+      "end_time": 193.85,
+      "annotation": [
+        {
+          "text": "\tHe built approximately 300 small houses, giving out the mortgages to the people. At that time, no bank gave mortgage. My father gave you mortgages.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc56a964-51ed-4dc3-8ce3-5fcf55d1a3f9"
+    },
+    {
+      "start_time": 193.85,
+      "end_time": 218.68,
+      "annotation": [
+        {
+          "text": "\tAnd he was a rather-- by the standards of his time-- well-to-do man. But I couldn't get a job in my profession. A job opened itself in West Galicia in a company called Jakub Szmer and Company. It was a Jewish man who accepted me on a try out. And I stayed with him.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3bd1a770-66e0-4a28-bdeb-8338bb406d9a"
+    },
+    {
+      "start_time": 218.68,
+      "end_time": 232.99,
+      "annotation": [
+        {
+          "text": "\tI became assistant manager of the oil fields. The chief engineer, his name was Max Garfunkel. He was the head of the engineering department. I was his assistant.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "63080a38-e0c5-4f05-b96e-8c8f6f0fc377"
+    },
+    {
+      "start_time": 232.99,
+      "end_time": 250,
+      "annotation": [
+        {
+          "text": "\tI worked down there. I built a house for the company. And he had 40 or 60 oil wells, which I [? directed. ?] I made a few little inventions, of which I have patents. Of course, they're all obsolete.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "59df2057-cbd2-4b0b-a5ca-97dee6fcf99e"
+    },
+    {
+      "start_time": 250,
+      "end_time": 253.75,
+      "annotation": [
+        {
+          "text": "\tAnd then the war started in 1939.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a4a05265-da3b-4373-9620-e2eea9243d42"
+    },
+    {
+      "start_time": 253.75,
+      "end_time": 269.33,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Can we back up just a little bit without-- I don't want to break up your train of thought. But if you would be good enough to, perhaps share with us who was in your family, a little bit about what your family life was like.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5fe81f83-8910-46cc-8b1e-b42e06dd0aeb"
+    },
+    {
+      "start_time": 269.33,
+      "end_time": 292.18,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: Well, as I said, my father was a building contractor. He built houses. My sister studied to be an attorney. And my brother was a accountant. My sister later owned a big movie house in the city of Lemberg.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b96a3802-3303-47d7-9be0-e6f494b1cd60"
+    },
+    {
+      "start_time": 292.18,
+      "end_time": 315.43,
+      "annotation": [
+        {
+          "text": "\tWe all worked very hard. Although they were quite well-to-do, but life was not easy. One is subjected continuously to pressures from the Poles who couldn't stand it if a Jew became so wealthy and who tried all the time, in-- in many, many ways to ruin my father's business.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "482b4e2a-38af-435c-808f-5e73db5a4aad"
+    },
+    {
+      "start_time": 315.43,
+      "end_time": 334.18,
+      "annotation": [
+        {
+          "text": "\tFor instance, they built a church, which was approximately, I would say, three miles from our building establishment. Yet it was suddenly considered an offense to the church that the building establishment is close by, where people worked. We had to fight these things continuously.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "01cf858a-8c69-4bcc-8610-a204e96d8021"
+    },
+    {
+      "start_time": 334.18,
+      "end_time": 347.42,
+      "annotation": [
+        {
+          "text": "\tWe fought it with bribes, naturally. He bribed to the right and he bribed to the left, and whatever could be done to keep alive. But I wanted to work as an engineer.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "10943805-f43c-4a18-b07c-379d17c8e2fa"
+    },
+    {
+      "start_time": 347.42,
+      "end_time": 358.72,
+      "annotation": [
+        {
+          "text": "\tMy father very much wanted me to be in his field. But first of all, I was very socialistic. Let's call it this way.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fe6bda4d-d100-46ba-8286-3958fb9ce85d"
+    },
+    {
+      "start_time": 358.72,
+      "end_time": 385.9,
+      "annotation": [
+        {
+          "text": "\tMost of the youths, the Jewish youths, was quite leftist and socialist at the time. There seemed to be no hope in the Polish rule and the way they treated us. And I believe it was Otto Kessler. Otto Kessler has a famous saying the red hot sun from the East will melt down the injustices of the West. So one believed in these things.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0a33a9d1-f45d-48d5-ba48-1a62ff8d9958"
+    },
+    {
+      "start_time": 385.9,
+      "end_time": 401.74,
+      "annotation": [
+        {
+          "text": "\tMy father wasn't very much enthused about it. He was naturally of different beliefs. So I had to leave and find work for myself. And I find work-- I found work for myself in West Galicia.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "264e0f0a-16f0-4ea8-be23-d80eb169fc72"
+    },
+    {
+      "start_time": 401.74,
+      "end_time": 421.06,
+      "annotation": [
+        {
+          "text": "\tIn the meantime, my sister married. She married to an attorney who later divorced her, emigrated to Russia, and was promptly shot by Stalin as a-- as a Polish spy. My sister bought a big movie house in Poland.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4347d05f-c9be-468e-bb31-942af037f68d"
+    },
+    {
+      "start_time": 421.06,
+      "end_time": 455.305,
+      "annotation": [
+        {
+          "text": "\tAnd my father was building a huge house-- for Poland, it was a huge house, a four story house in the city of Lemberg. He finished building it as the first bombs were falling on Lemberg in 1939. What is interesting for my father that he paid his debts. He was convinced his work is as good as gold. While the bombs were falling, he paid his debts.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5cb2bac8-5b40-4728-a625-1c457d587026"
+    },
+    {
+      "start_time": 455.305,
+      "end_time": 477.31,
+      "annotation": [
+        {
+          "text": "\tNow I worked on this place in West Galicia, the war came. The owner said to me you stay there and watch out for my business He grabbed whatever money there was. He had a bank account in [? [NON-ENGLISH SPEECH]. ?] And he managed to escape to America.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e15261aa-2ae5-4d80-b90c-be1cf7fc2e9a"
+    },
+    {
+      "start_time": 477.31,
+      "end_time": 505.51,
+      "annotation": [
+        {
+          "text": "\tI was left with 220 hungry people, drilling masters, welders, blacksmiths-- whatever accrue in such a field this-- boiler man-- and with no payroll. There was a little bit of money left in the bank, which he left me for small-- I took out this money. I remember it was 2,500 or so zloty.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5bfb64a5-25fc-467a-aea0-3537032f3ee2"
+    },
+    {
+      "start_time": 505.51,
+      "end_time": 515.89,
+      "annotation": [
+        {
+          "text": "\tAnd there were 220 of us. So everybody got 10 zloty, which is negligible. It's $2. But at least it showed some goodwill.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d7054b04-6165-4d65-b050-00ebfb11f858"
+    },
+    {
+      "start_time": 515.89,
+      "end_time": 528.76,
+      "annotation": [
+        {
+          "text": "\tAnd that I had goodwill among these is the best proof, because they didn't tear me apart, these people. They were mostly Poles. And that's the way it was.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b85f8d70-268e-43bb-8a08-4c39918260da"
+    },
+    {
+      "start_time": 528.76,
+      "end_time": 543.67,
+      "annotation": [
+        {
+          "text": "\tThen came the order. I managed to save a man's life. He was an Ukrainian. He was a machinist. And when the war started, the Poles believed that all the Ukrainians are spies.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "49a48cd4-eaea-451f-958e-3cbe5db7aa5d"
+    },
+    {
+      "start_time": 543.67,
+      "end_time": 566.38,
+      "annotation": [
+        {
+          "text": "\tUkrainians sided with the Germans. Because the Ukrainians originally fought against the Poles in 1918 and Poland was built. So as it was here with the Japanese during the war, Second World War, the public opinion was all Ukrainians are spies. But this was it a nice fellow. He wasn't a spy.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "06ebb0b6-8ad2-4178-8603-80d78bc60205"
+    },
+    {
+      "start_time": 566.38,
+      "end_time": 573.58,
+      "annotation": [
+        {
+          "text": "\tThe war started. The army came in and they asked is it an Ukrainian. And he was pointed out.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d79a351-bab2-46b3-a7e5-9244360ee5df"
+    },
+    {
+      "start_time": 573.58,
+      "end_time": 580.33,
+      "annotation": [
+        {
+          "text": "\tSo they took him. Put him against the wall. His wife gave-- came to me. I run against. I grabbed the sergeant.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "bf2af325-4363-407d-a6e8-bef98971bbfc"
+    },
+    {
+      "start_time": 580.33,
+      "end_time": 590.98,
+      "annotation": [
+        {
+          "text": "\tI told him I vouch-- vouch with my life for this man. He's a good man. He never makes any politics. He's a machinist. He-- he takes care of the machines.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6fa7c550-ab7a-48f9-ba07-9a1ba6aac2cd"
+    },
+    {
+      "start_time": 590.98,
+      "end_time": 602.59,
+      "annotation": [
+        {
+          "text": "\tSo they let him go. And later on this man proved helpful to me during the German time, a little bit. But I had a friend in him. OK.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f9ecf4f9-8239-4679-ba3a-dd58562f2639"
+    },
+    {
+      "start_time": 602.59,
+      "end_time": 616.9,
+      "annotation": [
+        {
+          "text": "\tThe war in our parts [INAUDIBLE] last-- lasted, maybe, for four days. After four days, the Polish army crumbled and kept going to the East.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf7c6554-306e-4489-bdd6-21212866ce53"
+    },
+    {
+      "start_time": 616.9,
+      "end_time": 645.58,
+      "annotation": [
+        {
+          "text": "\tThere was nothing from-- we got orders to dismantle the oil wells and to make them unfunctional, which we did. We dropped heavy pieces of iron and steel and tools into the oil wells. And then, of course, we had to run. Because we know the Germans-- and we dismantled the machinery. We took off the carburetors of all the injection pumps, of all the diesels, and we hid them somewhere so the Germans couldn't find them.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d1115f3e-f71c-4cc7-bdd8-b328b1759cdb"
+    },
+    {
+      "start_time": 645.58,
+      "end_time": 659.71,
+      "annotation": [
+        {
+          "text": "\tIt is-- characteristic that the Germans called me over the radio by name. A few days after I run away, there was a big radio announcement. And they said engineer Isaac Houser should come back. Everything is forgiven.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b0f19647-bcbd-4a4d-824e-57086799af80"
+    },
+    {
+      "start_time": 659.71,
+      "end_time": 669.58,
+      "annotation": [
+        {
+          "text": "\tThey wanted to know where the machinery is hidden. But I know that once I show my face that they will kill me. So I disregarded it completely.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a410e023-2376-4e97-a500-a7a33cc4d061"
+    },
+    {
+      "start_time": 669.58,
+      "end_time": 685.03,
+      "annotation": [
+        {
+          "text": "\tAs I was running away, we were doing it at night. Because during the day, the Germans were everywhere. I had a car hidden-- an old car which I built myself practically-- hidden. I took four people with me.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d73e8d9-f73d-40bb-84bc-cc253ebd9b26"
+    },
+    {
+      "start_time": 685.03,
+      "end_time": 699.34,
+      "annotation": [
+        {
+          "text": "\tAnd we drove on small country roads. The country roads in Poland are built of white stone. The stone is white. And when the moon shines in your face, you can see it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ea0fa4ea-362e-4c6a-9134-16852dd0a793"
+    },
+    {
+      "start_time": 699.34,
+      "end_time": 710.82,
+      "annotation": [
+        {
+          "text": "\tThe trouble was that-- at the end of the road made a sharp 90 degree bent and there was a river. And I didn't know this. And I didn't notice it. Because the river and the road looked the same.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "77c222fd-dbe5-4a6c-8bf3-e69fd18e1ad0"
+    },
+    {
+      "start_time": 710.82,
+      "end_time": 724.84,
+      "annotation": [
+        {
+          "text": "\tSo with full speed I fell with my car right into the river. I broke with my chest the steering wheel. Probably broke a few ribs, but at that time, who could-- who had time to look into such things.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "938bcf59-1dbd-413e-9031-06d875007efc"
+    },
+    {
+      "start_time": 724.84,
+      "end_time": 736.18,
+      "annotation": [
+        {
+          "text": "\tAnd the impact threw me to the other side of the river. It wasn't a big river. But I hit with my head the embankment. Some people sitting in the back of me were flying over my head.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2f7676a5-1d5c-472d-9bad-b18730de5c31"
+    },
+    {
+      "start_time": 736.18,
+      "end_time": 745.09,
+      "annotation": [
+        {
+          "text": "\tI had in my pocket a bottle of whiskey. It flew out so far that I could never find it. So we left the poor car in the river.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1782f78f-ae47-4166-a080-e2f417f98d9b"
+    },
+    {
+      "start_time": 745.09,
+      "end_time": 776.14,
+      "annotation": [
+        {
+          "text": "\tWe grabbed ourself and [? stoning ?] and moaning and groaning, we, on foot, proceeded to the next railroad station. And it was the last Polish train leaving the station. The cars were splattered with blood, because on-- a half an hour earlier, a Stuka, airplane, a German airplane, a dive airplane had made himself some fun by flying low alongside the windows and shooting a couple of the passengers inside.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e5208e7c-5e4c-4746-84c8-5cc83a33bad5"
+    },
+    {
+      "start_time": 776.14,
+      "end_time": 786.87,
+      "annotation": [
+        {
+          "text": "\tThe seats was splattered with blood. The windows were full of bullet holes. But it was at least a train. I took this train. And I came with this train to Lemberg.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "16c7cad0-2c2d-45f0-837e-80a6c9a0100b"
+    },
+    {
+      "start_time": 786.87,
+      "end_time": 788.25,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Which was then under Russian--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1518a5d9-db9d-433e-a7b1-eed552862e51"
+    },
+    {
+      "start_time": 788.25,
+      "end_time": 803.2,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: And then on the Russian side-- in Lemberg, I met my wife. But there was nothing for me to do in Lemberg. So I went to the Eastern oil fields, which were Borysław.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "255aabaf-e774-43af-938e-c92131aef24d"
+    },
+    {
+      "start_time": 803.2,
+      "end_time": 805.06,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: You had left your family though?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "33c82a96-b3d4-425b-92a4-584f7ff796ef"
+    },
+    {
+      "start_time": 805.06,
+      "end_time": 818.68,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: Oh. In Lemberg, my family stayed. My father and my mother both stayed in Lemberg. Now the Russians came in. My father was what is called a vlasnyk an owner.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c49cb98a-5731-456c-a12e-4a6b6168df16"
+    },
+    {
+      "start_time": 818.68,
+      "end_time": 830.38,
+      "annotation": [
+        {
+          "text": "\tNow we employed between 3 to 10 people. And we hired out help as necessary. My father wasn't a [INAUDIBLE] an owner. He was a well-to-do man.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b591c5d2-e839-4ffa-8fa7-744554d9ae2b"
+    },
+    {
+      "start_time": 830.38,
+      "end_time": 842.83,
+      "annotation": [
+        {
+          "text": "\tBut this was-- this was considered a tremendous crime. And the Russians took us over. For that matter, anybody-- anyone who had a barber shop or a shoe repair shop was an owner, suddenly.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "89199864-b36f-454f-93a3-15032cea62ca"
+    },
+    {
+      "start_time": 842.83,
+      "end_time": 861,
+      "annotation": [
+        {
+          "text": "\tAnd this was not only a crime for the man. It was a crime for his children. According to Marxist belief, your whole outlook, your philosophy of life is based on your economic basis. So you are the son of vlasnyk of an owner, it means you are an owner and is your children.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "67cb0abd-db95-436b-b74c-ecefb6279bdd"
+    },
+    {
+      "start_time": 861,
+      "end_time": 871.42,
+      "annotation": [
+        {
+          "text": "\tIn a way, it becomes almost like a [? [NON-ENGLISH SPEECH]. ?] You are tainted for life. I had-- I could do nothing in Lemberg, but everybody knew me anyhow.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b4316b10-63f2-493f-ad1d-ab229224cac3"
+    },
+    {
+      "start_time": 871.42,
+      "end_time": 879.962,
+      "annotation": [
+        {
+          "text": "\tSo I went to Borysław and we had some uncles, uncles and aunts living down there. And nu-- excuse me-- and numerous family.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f9cd00d8-6cda-4385-95fd-ff475320a18e"
+    },
+    {
+      "start_time": 879.962,
+      "end_time": 881.66,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: That was in 1939 then?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "447f5404-ab5f-4244-8536-9c104bd7a078"
+    },
+    {
+      "start_time": 881.66,
+      "end_time": 893.92,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: That was in '30-- in '39. And there I got a job. Since I have a diploma as an electrical engineer and the Borysław power plant. It was a beautiful power plant, a beautiful power plant.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "43ab7ab6-c7f1-4878-8168-afba5e486042"
+    },
+    {
+      "start_time": 893.92,
+      "end_time": 911.81,
+      "annotation": [
+        {
+          "text": "\tIt would be even beautiful by now, 40 years later, here in the United States. It wasn't as big as plants in the United States, but automated and beautifully kept. I became the head of the mechanical and electrical department.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "132cc612-c4f8-4247-8f67-58ef5efdd393"
+    },
+    {
+      "start_time": 911.81,
+      "end_time": 928.42,
+      "annotation": [
+        {
+          "text": "\tIt's-- to work for the Russians is a peculiar experience. The reason I do this interview only, I would like to show that the Russians broke our spirit. In a way, they're-- well, the Germans killed us physically.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1ad19ffd-caaf-434f-8db9-65adeb770a75"
+    },
+    {
+      "start_time": 928.42,
+      "end_time": 942.05,
+      "annotation": [
+        {
+          "text": "\tBut in a way, the Russians killed us mentally. They broke our spirit. They converted us from normal human beings who have some ambitions of hope into ants which go around all day long and look for food.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5f114c23-df67-474e-8aa4-26ddb444c689"
+    },
+    {
+      "start_time": 942.05,
+      "end_time": 953.15,
+      "annotation": [
+        {
+          "text": "\tAnd they have a special-- they have a special method which they have perfected. We all became like Pavlovian dogs. When you whistle, they salivate.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc4db25b-7d81-47e0-a888-4e0f590b6040"
+    },
+    {
+      "start_time": 953.15,
+      "end_time": 962.54,
+      "annotation": [
+        {
+          "text": "\tAll day long one had to work. The stores, where they give you food, are open from eight till four. Now how can you do it?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fdb8a469-f77c-4995-a93f-216c236a2eb0"
+    },
+    {
+      "start_time": 962.54,
+      "end_time": 973.69,
+      "annotation": [
+        {
+          "text": "\tIf you have an old aunt at home, an old parent, an old somebody, a mother, but if you have not-- like, we are two working people. My wife worked and I worked. It was practically impossible.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "91073f95-c02d-4fd4-b9d7-4120b292e56b"
+    },
+    {
+      "start_time": 973.69,
+      "end_time": 997.99,
+      "annotation": [
+        {
+          "text": "\tSomeone had to continuously break the law. You were not permitted to go out. But you had to. So we continuously smuggled ourselves out to grab bread here and a piece of meat here. You-- then you grab quickly a place in the line to get a piece of leather for a shoe sole and so on.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "126d48bb-78de-4d1c-8d65-e303010ba61b"
+    },
+    {
+      "start_time": 997.99,
+      "end_time": 1015.55,
+      "annotation": [
+        {
+          "text": "\tIt became-- it was like living in a prison. While one, actually-- of course, an American prison is-- compared to this, a holiday. But it was living like in a tremendous prison.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "19735706-7e06-4f30-8705-e651213fefaf"
+    },
+    {
+      "start_time": 1015.55,
+      "end_time": 1029.53,
+      "annotation": [
+        {
+          "text": "\tEveryone had to work all day long. At the same time, fight for his food. This is a great invention of Stalin, you know, that he was able to get the people used to it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "857322f7-ac30-4d91-9955-0be55c75a6e1"
+    },
+    {
+      "start_time": 1029.53,
+      "end_time": 1039.69,
+      "annotation": [
+        {
+          "text": "\tThat the most important thing is work. Food and all the other stuff you will have to find for yourself. Because we assume-- it's funny.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ff150da4-e114-453d-9bb9-6db23de2ae17"
+    },
+    {
+      "start_time": 1039.69,
+      "end_time": 1058.35,
+      "annotation": [
+        {
+          "text": "\tWhen the Israelis went out to the desert, when they came out from-- with Moses into the desert, it says in the Bible, that they revolt against him. They cried, Zakharnu et HaDagim. We remember the full flesh pots and fish pots in Egypt. And they revolt.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "88807445-0227-4bd2-bbee-e2b3b7062af9"
+    },
+    {
+      "start_time": 1058.35,
+      "end_time": 1072.59,
+      "annotation": [
+        {
+          "text": "\tStalin found out that he doesn't have to give any fish pots or flesh pots to his slaves. You just have to give them work. And somehow, they will be able to muddle through. But this muddling through takes away half of your life.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e71daf74-1565-4969-8314-2b0458a223a5"
+    },
+    {
+      "start_time": 1072.59,
+      "end_time": 1099.21,
+      "annotation": [
+        {
+          "text": "\tWhenever you would have time to think about something, you're always-- you're always busy with finding-- eh-- how to get by. They threw us out of our apartments. In Russia, the law says that you are permitted to have-- permitted-- that you are entitled to have six square meters, which means 18 feet by 18 feet per person. Two persons is 36 by 36.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "88299485-ce18-40f4-93ca-3a84ba1edaad"
+    },
+    {
+      "start_time": 1099.21,
+      "end_time": 1119.46,
+      "annotation": [
+        {
+          "text": "\tBut this doesn't mean-- first of all, they don't let you take your-- your furniture with you. You leave everything in your apartment as you sit down there. They let you take a few eating utensils. Because some-- some of the secret Russian police or some other officer likes your apartment.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b5310f78-b17f-402c-a90d-7141d03f5f77"
+    },
+    {
+      "start_time": 1119.46,
+      "end_time": 1142.32,
+      "annotation": [
+        {
+          "text": "\tIf he happen to see-- if he happened not to see it, if you can hide out, you'll remain in there. If somebody sees you, they take it away. So it's a continuous struggle. And during this continuous struggle, they broke us so deeply and so completely that when Hitler later came, he had it very easy with us.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f90c274f-4f75-4568-80fe-3cf8ecd27380"
+    },
+    {
+      "start_time": 1142.32,
+      "end_time": 1157.34,
+      "annotation": [
+        {
+          "text": "\tThe reason I'm saying it is because Borysław was not a town like all the other stetls in Poland. Borysław was an oil mining town. All oil mining towns are Klondike like, as they call it here in the United States.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6dfa1464-b34e-4e3f-b5be-9f5517f5e926"
+    },
+    {
+      "start_time": 1157.34,
+      "end_time": 1171.47,
+      "annotation": [
+        {
+          "text": "\tThe people are miners. They are rough types. They don't give a damn about anybody there. They carry weapons. They carry knives there. Eager to fight it out if their heads [? drop. ?]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0f5f0f82-fa68-488f-a544-066aca1f9aa6"
+    },
+    {
+      "start_time": 1171.47,
+      "end_time": 1189.54,
+      "annotation": [
+        {
+          "text": "\tThey're essentially not afraid. But not after the Russian cure. After the Russians went by, they were all like lambs. They were all beaten down, dispirited. And they went to their death like a bunch of animals.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0810f144-4f84-4de3-bd30-1c482c0cc426"
+    },
+    {
+      "start_time": 1189.54,
+      "end_time": 1199.39,
+      "annotation": [
+        {
+          "text": "\tWell, we were there in Borysław. I am-- I have to bring out one special point. The Russians were still with us.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3bf45d65-a2ca-4130-937b-b8d231eb8580"
+    },
+    {
+      "start_time": 1199.39,
+      "end_time": 1214.95,
+      "annotation": [
+        {
+          "text": "\tThey started-- of course, they-- they tried to make informers out of everybody. I was called in at 12 o'clock at night and said you have to let us know what your neighbors say. I say I don't know. I tried to talk my way out of it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "61741a21-3f63-4f56-90a5-24df9826a1f1"
+    },
+    {
+      "start_time": 1214.95,
+      "end_time": 1219.82,
+      "annotation": [
+        {
+          "text": "\tI work all day. Then I run to get a piece of bread. I don't know anything.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d81d96e4-035b-413a-9e04-adc09bcc6689"
+    },
+    {
+      "start_time": 1219.82,
+      "end_time": 1229.3,
+      "annotation": [
+        {
+          "text": "\tDoesn't matter. You have to. Besides, if you do, we will treat you better. You will get a better apartment, and so on and so forth. And many people fell for it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f738a579-3c88-41dd-bfba-793ab4fe862e"
+    },
+    {
+      "start_time": 1229.3,
+      "end_time": 1246.49,
+      "annotation": [
+        {
+          "text": "\tAnd they watch you. You have to report. I didn't report, so they called me in a few months later and made me sign a paper. You did not cooperate, which-- which is a threat. But they didn't last too long, so the threat did not materialize.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b75667be-c437-418f-a9dd-7ca69a9d952b"
+    },
+    {
+      "start_time": 1246.49,
+      "end_time": 1262.74,
+      "annotation": [
+        {
+          "text": "\tLet me illustrate it by an example. In the power plant where I worked, there was what is called a condensation pump. A condensation pump is a unit, an auxiliary unit at every turbine. It was a beautiful power plant.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "87b0bd5d-1693-4b75-867a-8d9f69a72d1a"
+    },
+    {
+      "start_time": 1262.74,
+      "end_time": 1272.79,
+      "annotation": [
+        {
+          "text": "\tBut this particularly condensation pump had a motor, which was badly designed. Every six or eight months, the motor overheated. We knew about it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "495dbfd6-a198-4fd3-914f-d3dac2981726"
+    },
+    {
+      "start_time": 1272.79,
+      "end_time": 1283.74,
+      "annotation": [
+        {
+          "text": "\tSo when the motor started to overheat, we had a spare part. We put it in, and that was it. The motor overheats. I am called at 12 o'clock at night.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "00ea761e-3d65-4fb3-ace5-dac9ce12ccb1"
+    },
+    {
+      "start_time": 1283.74,
+      "end_time": 1302.04,
+      "annotation": [
+        {
+          "text": "\tHow come you did not report to us that somebody's spraying sand in the motor bearings? I said nobody sprayed any sand. It never happened before. This motor regularly overheats every six or eight months the motor overheats. And you have to put in the spare part.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "27b3d80d-c008-4e45-9bc9-85a783233884"
+    },
+    {
+      "start_time": 1302.04,
+      "end_time": 1314.67,
+      "annotation": [
+        {
+          "text": "\tNo, somebody sprayed sand on it. And they gave me such a bad time. Somehow, I don't know by what miracle I was able to talk my way out of this. Because this meant Siberia.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "31a106c1-ceeb-4402-8af6-6bd4893c63a7"
+    },
+    {
+      "start_time": 1314.67,
+      "end_time": 1330.87,
+      "annotation": [
+        {
+          "text": "\tAt another time, they-- they-- Stalin had at that time a helper whose name was Malenkov. This Malenkov was supposed to be Stalin's successor. But later on, when Stalin died, they threw him out.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b9b3ed78-688b-49c1-8aa5-e993c8574c6f"
+    },
+    {
+      "start_time": 1330.87,
+      "end_time": 1346.32,
+      "annotation": [
+        {
+          "text": "\tMalenkov issued a new law. Kto ne raboet, tot ne kushaet means who-- the one who doesn't work doesn't eat. It was taken literally. Many old people, many retired people committed suicide.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e56be437-ac81-4297-a7ab-beff61abc087"
+    },
+    {
+      "start_time": 1346.32,
+      "end_time": 1360.42,
+      "annotation": [
+        {
+          "text": "\tYou could see the old people also standing outside selling their last shirt. A man was selling a pair of eyeglasses. One guy was selling a shirt which was only one sleeve. I mean, anything to get a piece of bread.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2cc55e26-3dd8-4082-bf1f-6815094d7e97"
+    },
+    {
+      "start_time": 1360.42,
+      "end_time": 1389.62,
+      "annotation": [
+        {
+          "text": "\tAnd he issued another law. You have to be punctually at your job. If you're five minutes late, you get arrested. If you're 15 minutes late, you can get what they call detskiy srok five years in Siberia. It means a child's-- a child's-- what does srok mean in English-- a child's verdict-- a childish verdict, a very easy verdict, five years in Siberia.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3111cd7a-04c4-44d2-9c84-57a817fead12"
+    },
+    {
+      "start_time": 1389.62,
+      "end_time": 1400.19,
+      "annotation": [
+        {
+          "text": "\tSo one of those days, I am at job. And I see that one of my machinists is not there. The clock is striking eight. He is not there. The clock is striking 8:05 and he is not there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "eeef7eb7-4270-4ed4-a47f-24463199dcbe"
+    },
+    {
+      "start_time": 1400.19,
+      "end_time": 1414.6,
+      "annotation": [
+        {
+          "text": "\tSo I ran down to the time clock. I risked my own life. I pulled out his card and I shoved it in, making believe that he is there. Because later on the police came around, checking if everybody is there. His card was in the right spot.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5cbbbaf4-b5d5-45d7-8568-91b18be7ad64"
+    },
+    {
+      "start_time": 1414.6,
+      "end_time": 1427.02,
+      "annotation": [
+        {
+          "text": "\tHe came in 30 minutes later. He had a bad accident. The guy was half crazy. He was trying to repair an old motorcycle, which he had. And he fell down and broke his head and so on.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cfd958d9-101d-4154-935e-2f27ce1b89a0"
+    },
+    {
+      "start_time": 1427.02,
+      "end_time": 1439.73,
+      "annotation": [
+        {
+          "text": "\tHe came in perplexed and bewildered, because he knew what was waiting for him. This same guy helped me later to escape during one of the pogroms. He remembered.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b160f08f-770c-4492-85e6-e4968b09cacc"
+    },
+    {
+      "start_time": 1439.73,
+      "end_time": 1448.28,
+      "annotation": [
+        {
+          "text": "\tWell, here we are now with the Russians. Time is going by. And there is May 1941.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "585c3d4b-b609-4bf5-a272-ec26d939db35"
+    },
+    {
+      "start_time": 1448.28,
+      "end_time": 1459.08,
+      "annotation": [
+        {
+          "text": "\tNow every-- the Polish-- there was a sizable Polish population in the town of Borysław. And they had children. Their children went to the local high school.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "79b183df-cdbe-4bf9-8568-3a229b71cd43"
+    },
+    {
+      "start_time": 1459.08,
+      "end_time": 1482.99,
+      "annotation": [
+        {
+          "text": "\tThere is a Polish holiday, which is called the holiday of the third of May. It's just some-- something to do with Polish history. Anyhow, wherever Poles as a group are living, on the third of May the children usually dress in the national costumes and sing songs and dance national dances.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd471f53-8efc-42ad-8101-6840f759b98c"
+    },
+    {
+      "start_time": 1482.99,
+      "end_time": 1496.04,
+      "annotation": [
+        {
+          "text": "\tAnd it's sort of a celebration. And this has been going on since the year, I believe, 1820 or so on. So it was, of course, forbidden.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f3849715-0f92-45da-9d05-9eee811793dd"
+    },
+    {
+      "start_time": 1496.04,
+      "end_time": 1513.05,
+      "annotation": [
+        {
+          "text": "\tNow this part of previous Poland had became Ukraine. And the Russians had forbidden any Polish national. But children are like children. How do you reason with 12, 14, 15-year-old? They have to have their holiday.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b79b2a4b-922b-4618-a415-20242fa7f43f"
+    },
+    {
+      "start_time": 1513.05,
+      "end_time": 1526.04,
+      "annotation": [
+        {
+          "text": "\tSo naturally, they came in on the 3rd of May dressed in these costumes, sang the polkas, danced around. And naturally, there was an informer. There is an informer. Where there are three people, there must be two informers in Russia.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d3a24b16-cec0-4009-8b56-071ceb443855"
+    },
+    {
+      "start_time": 1526.04,
+      "end_time": 1537.44,
+      "annotation": [
+        {
+          "text": "\tAnd this informer informed to them. And the children were arrested the same night. As they took the children away, they commandeered company trucks to load them.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "55be2b4b-f235-47cf-bfca-3816f532ae4e"
+    },
+    {
+      "start_time": 1537.44,
+      "end_time": 1552.56,
+      "annotation": [
+        {
+          "text": "\tI believe there were 212, or 220, between the ages 12 to 16. They took them away in these trucks. They were three or four trucks. I don't know how many. Some of these truck drivers were Jewish.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "261e969f-5dac-4699-8897-302ed9758bc1"
+    },
+    {
+      "start_time": 1552.56,
+      "end_time": 1572.78,
+      "annotation": [
+        {
+          "text": "\tIt is said-- I didn't hear it as my own eye-- ears, but it was said that one of the truck drivers, a Jewish truck driver laughed and made jokes. Poland is finished. It will never be there again. And laughed their head off-- his head off when the children were loaded. And the parents were naturally crying.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f4200c49-3938-4ac4-b69a-5b184b69cb89"
+    },
+    {
+      "start_time": 1572.78,
+      "end_time": 1592.81,
+      "annotation": [
+        {
+          "text": "\tThe Germans struck in June 1941. The Russian army-- excuse me-- which up to that day had strutted around, we are invincible [? singing ?] ran. They ran. They left all their heavy equipment, and they ran.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c597c10f-79bd-4062-95d8-7b910696031b"
+    },
+    {
+      "start_time": 1592.81,
+      "end_time": 1613.64,
+      "annotation": [
+        {
+          "text": "\tThe parents of-- and they-- they were not-- there was a period of six or eight hours that there was neither Russians nor Germans in the town. The Germans hadn't arrived yet, their patrols, and the Russians have gone. The parents of the arrested children naturally run to the prison to get-- to find their children.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4adf3221-f501-40fa-b31d-ab8609d444e6"
+    },
+    {
+      "start_time": 1613.64,
+      "end_time": 1624.68,
+      "annotation": [
+        {
+          "text": "\tThere were no children. But in the prison yard, there was a shallow grave. They uncover it, and there were all these children killed, all of them killed with a single shot in the head.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "97da4c77-b8c3-492e-863b-c1b367c67e16"
+    },
+    {
+      "start_time": 1624.68,
+      "end_time": 1633.45,
+      "annotation": [
+        {
+          "text": "\tSome of them had their hands tied with barbed wire. That's a special Russian invention. I don't know why they do it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b15f5ef7-a0da-40f4-bfbf-565cdc67be82"
+    },
+    {
+      "start_time": 1633.45,
+      "end_time": 1645.83,
+      "annotation": [
+        {
+          "text": "\tYou-- you also must realize how executions are done in Russia. There's-- there's a tiny little cell-- we saw it here when we broke the prison open. And in this cell, there is a door.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "aeab559a-3f56-4658-9ea6-2c31b9e47046"
+    },
+    {
+      "start_time": 1645.83,
+      "end_time": 1662.81,
+      "annotation": [
+        {
+          "text": "\tIn this door is an opening and they had to-- at the height of a human head. They tied the poor victims to the door, and the executioner shoots him so that the prisoner doesn't know who has done it. A family shouldn't be able to say, in heaven, who has killed him.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ba6a1764-a1a8-430e-8b70-fe83fcbd0b9a"
+    },
+    {
+      "start_time": 1662.81,
+      "end_time": 1674.9,
+      "annotation": [
+        {
+          "text": "\tNormally, executions are done by firing-- you know, where a man stands in front of the firing squad. The Russians have their own way. Anyhow, the-- all these children were killed.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8e2d5f7f-b6d4-4d80-9127-93c229b707ec"
+    },
+    {
+      "start_time": 1674.9,
+      "end_time": 1695.32,
+      "annotation": [
+        {
+          "text": "\tAnd the parents suddenly remembered that this Jew made a snide remark when they loaded. And a cry went out all over the city of Warsaw, the Jews have killed our children. And the Ukrainians, who were Jew haters to begin with, united with the Polish parents.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1eb029ca-fba8-4c9c-97ac-fc08f077cc88"
+    },
+    {
+      "start_time": 1695.32,
+      "end_time": 1712.84,
+      "annotation": [
+        {
+          "text": "\tAnd they all run around. They rounded up the families of those truck drivers and all Jews to whom they can [INAUDIBLE]. And of course, there were robbers and looters, the intelligentsia, the better known people. And they killed them in the most brutal way.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6e063f0a-2a0b-4a98-b077-8762e13699bb"
+    },
+    {
+      "start_time": 1712.84,
+      "end_time": 1731.47,
+      "annotation": [
+        {
+          "text": "\tFirst they had to crawl on their knees to kiss their dead bodies and beg their forgiveness. And then they were beaten to death with lead pipes and iron pipes. A few people survived because there were a few Ukrainians, decent people, who had friends among those who were rounded up.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7cec42a2-2747-47b2-a815-23dfa863b451"
+    },
+    {
+      "start_time": 1731.47,
+      "end_time": 1743.23,
+      "annotation": [
+        {
+          "text": "\tThey went into the melee and pulled them physically out. An Ukrainian could go out. They pulled out the rabbi. I don't know. Some Ukrainian went in and pulled out the rabbi.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b21b72ea-5456-4fd5-b9a2-56c43fb2e7e0"
+    },
+    {
+      "start_time": 1743.23,
+      "end_time": 1758.85,
+      "annotation": [
+        {
+          "text": "\tAnother Ukrainian went in and pulled out one of my friends. Bauer-- his name was Bauer. And so on-- but-- most of-- I lost 30 people of close family in that night. I myself escaped by the breath of a hair.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6eec4778-c1d9-4df7-b3f4-aba3109eea3d"
+    },
+    {
+      "start_time": 1758.85,
+      "end_time": 1765.13,
+      "annotation": [
+        {
+          "text": "\tI-- I went in. My family was there. I told them disperse. There is something vicious going on.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b504ba66-f38c-46cc-b855-b68813fb612a"
+    },
+    {
+      "start_time": 1765.13,
+      "end_time": 1768.67,
+      "annotation": [
+        {
+          "text": "\tThey said no. We sit together. We feel better when we sit together.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "df9153a8-69fe-48b0-87ad-f70c44ddf841"
+    },
+    {
+      "start_time": 1768.67,
+      "end_time": 1774.49,
+      "annotation": [
+        {
+          "text": "\tSo they sat together. And they all died together. I ran away and I hid out.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4647f845-67df-40df-96ed-56475173c0d8"
+    },
+    {
+      "start_time": 1774.49,
+      "end_time": 1788.925,
+      "annotation": [
+        {
+          "text": "\tAnyhow, the Germans occupied our town. As soon as the Germans occupied our town, Jews had to register. I registered as an engineer, as a technical man.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "36c5c35e-a08f-40e2-87d3-dbe913cc4a10"
+    },
+    {
+      "start_time": 1788.925,
+      "end_time": 1789.23,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Hold it up--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c8e48e08-54cd-4d46-9b6e-1817dd3277f3"
+    },
+    {
+      "start_time": 1789.23,
+      "end_time": 1790.06,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: And I was given--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3685a406-9740-4473-b508-b116f8e46818"
+    },
+    {
+      "start_time": 1790.06,
+      "end_time": 1792.31,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Hold it up for the camera.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e0793a6a-85a8-44b4-bde2-c798fcb75b62"
+    },
+    {
+      "start_time": 1792.31,
+      "end_time": 1807.64,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: I was given this.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "00f434ff-960b-40dc-845d-f51e8ff1f660"
+    },
+    {
+      "start_time": 1807.64,
+      "end_time": 1827.56,
+      "annotation": [
+        {
+          "text": "\tAnd of course, later on, all kinds of classifications were again given and again given. Because they had to decrease the number of the Jewish population. The town of Borysław, there was 16 or 18,000 Jewish people. And at that time, the Jewish population was falling. Because there was all kinds of little towns.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "89382c05-f3ee-49cd-9c95-9cffb0ccf9e9"
+    },
+    {
+      "start_time": 1827.56,
+      "end_time": 1851.23,
+      "annotation": [
+        {
+          "text": "\tWell, Borysław was considered a town of middle size, a major Jewish settlement. Sometimes, we even had the Jewish mayor down there. So they crowded all these Jewish inhabitants of all the other settlements. And I estimated there were approximately 20 to 25,000 people dispersed through the ghetto of Borysław.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6b491511-07a3-4f49-a4db-23f6021ddb88"
+    },
+    {
+      "start_time": 1851.23,
+      "end_time": 1851.65,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: When --\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b6193d2c-cc99-4e55-9236-7b442dac1367"
+    },
+    {
+      "start_time": 1851.65,
+      "end_time": 1854.35,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: And next to Borysław was Drohobycz, [? sister ?] town.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "36c43ca0-85ea-4314-8ed2-e508ede72e32"
+    },
+    {
+      "start_time": 1854.35,
+      "end_time": 1857.68,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: When was, you know, the ghetto formally established?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fa152d8c-a31a-45ff-9d4e-ff9b48f88fa6"
+    },
+    {
+      "start_time": 1857.68,
+      "end_time": 1862.87,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: In 1941, and the Germans came in immediately, oh, maybe a week later.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "56a8a8b7-ba8b-4ca7-885b-158df890ac65"
+    },
+    {
+      "start_time": 1862.87,
+      "end_time": 1863.5,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: I see.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c184c8b2-b322-42fc-a318-75b96d744a77"
+    },
+    {
+      "start_time": 1863.5,
+      "end_time": 1874.6,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: We were told to leave our places. Of course, one could bribe his way. So they let us still live for a month or two in the [? period. ?] But essentially, one had to go.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "932bd4dc-96d6-4235-9e67-01387663d123"
+    },
+    {
+      "start_time": 1874.6,
+      "end_time": 1885.47,
+      "annotation": [
+        {
+          "text": "\tThe ghetto was established. And the Jewish people have to live in this designed area. And then, of course, they kept decreasing the ghetto all the time.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc1a6d14-7566-4b6d-a92c-0ea77058f4e9"
+    },
+    {
+      "start_time": 1885.47,
+      "end_time": 1918.27,
+      "annotation": [
+        {
+          "text": "\tLet's say every two or three months there was a selection called Judenaktion, an action against the Jews. During this selection, everyone who was not considered worthy of living was killed. Women were extremely in danger-- children-- extremely in danger. I saw myself some women who had identification stating that they were working people tear up the identification and go to death with their children.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "43ac624c-1634-4d0c-b2c7-506c7e85685a"
+    },
+    {
+      "start_time": 1918.27,
+      "end_time": 1944.35,
+      "annotation": [
+        {
+          "text": "\tAnd I also saw some women who voluntarily brought their children to the collecting place and left them there. Because numbers were important. The-- the Germans created a council of elders. The president of the Council of Elders was a Jewish soldier from First World War by the name of Hertz. And he was there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "66e80f49-99e1-4cdc-8df9-d4cb2dffa3e9"
+    },
+    {
+      "start_time": 1944.35,
+      "end_time": 1975.97,
+      "annotation": [
+        {
+          "text": "\tAnd he was given the task of delivering the victims. He organized the Jewish militia. This Jewish militia was given the task of bringing in, let's say, 2,000 people. This all was done with the active-- not [? fair-- ?] under the operation of the German police, which was called Schutzpolizei. The Schutzpolizei had mounted the detachment which was called Reiterpolizei.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7f8cd97-dc4f-4fa7-ad3c-21bf2240762d"
+    },
+    {
+      "start_time": 1975.97,
+      "end_time": 1989.23,
+      "annotation": [
+        {
+          "text": "\tAnd of course, there was the Ukrainian auxiliary police, the Ukrainian militia. All these police forces were there for one purpose, to round up the Jews. It's a funny things how these Germans operate.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "530f2556-00ad-4965-9330-aaa248e0965b"
+    },
+    {
+      "start_time": 1989.23,
+      "end_time": 2000.78,
+      "annotation": [
+        {
+          "text": "\tFor instance, at what time they issued an order. When they made us leave our houses, the [? loot ?] was there. Nobody could go in.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ccdc584f-39ac-41bd-9770-bc06a376f89e"
+    },
+    {
+      "start_time": 2000.78,
+      "end_time": 2008.13,
+      "annotation": [
+        {
+          "text": "\tI left the house. But I had left some books. In my craziness, I carried books with me around.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ab80ae3-3f31-413a-aa7e-d4c48dd2bf6a"
+    },
+    {
+      "start_time": 2008.13,
+      "end_time": 2024.38,
+      "annotation": [
+        {
+          "text": "\tAnd I went back down there to get a book. I saw something moving in a corner. An old Polish farmer had broken into the house and had stolen the door of a furnace.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a982c46f-469e-4781-9cfe-7fbb107832fe"
+    },
+    {
+      "start_time": 2024.38,
+      "end_time": 2033.83,
+      "annotation": [
+        {
+          "text": "\tYou know, there were these old type furnaces which opened so far, they had cast iron doors. These cast iron doors were valuable. You couldn't buy them so easily.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "75a75630-55d6-4d4d-946c-6cdb7e8270a6"
+    },
+    {
+      "start_time": 2033.83,
+      "end_time": 2045.32,
+      "annotation": [
+        {
+          "text": "\tSo this poor old soul had stolen it. And he had it. And he has hidden in a corner. I didn't know if he had some bad intentions toward me. Who could know?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0076281b-0dc3-42a0-86e7-7244ae43b994"
+    },
+    {
+      "start_time": 2045.32,
+      "end_time": 2056.87,
+      "annotation": [
+        {
+          "text": "\tSo a German policeman was walking by. I had this with me. So I called him. And I told him, Mr. Policeman, somebody broke in down there, I don't know what to do.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6f6d4671-8443-4dcb-ae53-649446f64180"
+    },
+    {
+      "start_time": 2056.87,
+      "end_time": 2072.48,
+      "annotation": [
+        {
+          "text": "\tHe went in. Pulled the old guy by the ear out to the window and shot him right in the head for a piece of a door, an old door. And this went on for a while.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6bf5e18e-cad4-4ab0-ae0e-c7e187d9116f"
+    },
+    {
+      "start_time": 2072.48,
+      "end_time": 2086.85,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Can I stop you for a second? Now prior to the Germans coming to Borysław, you were living with your wife, apart from your immediate family. Did you have any contact with them at all, with your parents, with your sisters--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5d3e7fdb-38ce-4dff-86a9-b8785dbd685e"
+    },
+    {
+      "start_time": 2086.85,
+      "end_time": 2087.53,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: I wrote a few --\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "280efadf-fbd3-40c9-9d02-6ffd3174b075"
+    },
+    {
+      "start_time": 2087.53,
+      "end_time": 2087.679,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: --and brothers?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9cf4e455-b62c-4fbd-a038-c2f5afb1c700"
+    },
+    {
+      "start_time": 2087.679,
+      "end_time": 2088.84,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: --letters to them.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f29c0f9c-129c-42a8-8b28-bb3fa40440af"
+    },
+    {
+      "start_time": 2088.84,
+      "end_time": 2090.67,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Did you have any idea what was happening--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e2c6f2c1-d044-4829-a71e-541af2e80aed"
+    },
+    {
+      "start_time": 2090.67,
+      "end_time": 2109.88,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: I wrote a few letters to them and my sister answered. I even made some attempts to bring them to Borysław. I bribed some truck driver who was going for the Germans to Lwów to bring back some parts. But I was unsuccessful.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5299b6b3-8c9a-4d8c-8f15-7e6af526fac1"
+    },
+    {
+      "start_time": 2109.88,
+      "end_time": 2115.688,
+      "annotation": [
+        {
+          "text": "\tI tried. But, no. Now--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ed9e6f25-6e9c-4f8e-a2ce-ad1541fe67c0"
+    },
+    {
+      "start_time": 2115.688,
+      "end_time": 2117.98,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: You should also explain what this is.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "73d2b21c-85fa-4862-92f6-1fb7c7597902"
+    },
+    {
+      "start_time": 2117.98,
+      "end_time": 2139.09,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: The Germans kept decreasing our number. And finally, only one word, R, which means Rüstung. R means Rüstung, armament. And anyone who had armament had to have such an ID, which looks like this.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a432c072-4fd0-4716-8c73-d96407702379"
+    },
+    {
+      "start_time": 2139.09,
+      "end_time": 2140.86,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: This meant that you worked in the armaments?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3967da43-6f2c-4d03-ab94-0a600478fc09"
+    },
+    {
+      "start_time": 2140.86,
+      "end_time": 2171.15,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: R for the armament, for armament connected industries-- and uh, of course, one had to issue a little bribe. This wasn't as simple that we had some silverware hidden outside from my uncle. Which, while I was entitled to it, if anybody was entitled to it, I was entitled to it. And-- but the bribe had to be given, because who cared?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "716cda03-c2ee-4540-a16e-7d631c8f7701"
+    },
+    {
+      "start_time": 2171.15,
+      "end_time": 2193.83,
+      "annotation": [
+        {
+          "text": "\tSo I had to bribe the-- the Jewish council got very much demoralized. In the beginning, they started out as real helpers-- helpers. They decided that the old people should die so that the young [could live]. [COUGHS] But--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "db4805fa-515f-47c6-918f-315884f76969"
+    },
+    {
+      "start_time": 2193.83,
+      "end_time": 2197.24,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Were you involved at all with the Jewish council?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5be607b2-5242-4ff5-ad8d-edf3696704c2"
+    },
+    {
+      "start_time": 2197.24,
+      "end_time": 2217.11,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: I-- not very much-- once they called me in. Since I am an engineer from a German technical school and I speak perfect German, I was called in. The Germans are peculiar people. While they addressed everybody \"Du Jude,\" since I am an engineer, they called me Herr Engineer, Mr. Engineer.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e92c3905-28e3-4457-bc1a-904cd05a1e50"
+    },
+    {
+      "start_time": 2217.11,
+      "end_time": 2231.45,
+      "annotation": [
+        {
+          "text": "\tSo the chief of the police called me in and said Mr. Engineer, I have decided that you will become the head of the Jewish council. That was a big honor. And there was-- and there was a pot of gold in it, because-- but I didn't want it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5d275c10-a677-4361-8821-4a03915ca210"
+    },
+    {
+      "start_time": 2231.45,
+      "end_time": 2238.53,
+      "annotation": [
+        {
+          "text": "\tSo I said please, Herr Commandant, let me think about it for a moment. And I smuggled myself out. And I ran away.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f2cc09d4-4344-4b89-b097-e2d09f5a18be"
+    },
+    {
+      "start_time": 2238.53,
+      "end_time": 2252.31,
+      "annotation": [
+        {
+          "text": "\tAnd I hid out for three weeks. I lay in a basement up to my knees in water. My wife was also there. In the meantime, they nominated another one. In this way I escaped of this dubious honor.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ea7e7ae-e722-4b84-9a32-7cac586aa677"
+    },
+    {
+      "start_time": 2252.31,
+      "end_time": 2278.66,
+      "annotation": [
+        {
+          "text": "\tNow the people had a difficult task. Because they kept saying, if we will not supply the victims, the Germans will come in and take away all the victims. Of course, who can [? aggregate ?] themselves the power to say you should live? But it was done, anyhow.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "745444fe-bb1a-4772-8f16-535c32cb9437"
+    },
+    {
+      "start_time": 2278.66,
+      "end_time": 2294.27,
+      "annotation": [
+        {
+          "text": "\tSo this went on for some time. I would like to describe to you now all these things which I am telling you. Most of them I saw with my own eyes. Many I did not. I know it from witnesses.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9daf9fe7-be24-4ba5-962e-7f6c57e88cf8"
+    },
+    {
+      "start_time": 2294.27,
+      "end_time": 2319.93,
+      "annotation": [
+        {
+          "text": "\tThere was-- there was one guy. His name was Max Hendler. This Max Hendler was our Verbindungsmann, which means our connection to the German police. The Jewish council had nominated him to be the connecting link between the Jewish council and the German police. He was an extremely decent man.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5f04dca1-166f-481e-8ef4-6152dd1931e3"
+    },
+    {
+      "start_time": 2319.93,
+      "end_time": 2322.29,
+      "annotation": [
+        {
+          "text": "\t[COUGHS]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd248a00-0cdf-43f5-9fe7-879019d51439"
+    },
+    {
+      "start_time": 2322.29,
+      "end_time": 2338.96,
+      "annotation": [
+        {
+          "text": "\tHe felt, apparently, that I will remember [all these things]. And he, as our connector to the German police, saw most of these things with his own eyes. He had to be there. And he told them to me.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "90936a3b-d75c-48fd-bf59-f555317dbfea"
+    },
+    {
+      "start_time": 2338.96,
+      "end_time": 2369.464,
+      "annotation": [
+        {
+          "text": "\tBecause in the morning, he went to the police to get from there-- there-- they ordered cognac, vodka, women, I don't know, gold, silver, rocks, which he had to bring over to the Jewish people. The Jewish people then tried to make a collection among all us who [INAUDIBLE] had something left to-- to-- of course, they collected more than they needed. Later on, they collected a little bit for themselves.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a31546f8-910f-457e-b802-25bd0747d410"
+    },
+    {
+      "start_time": 2369.464,
+      "end_time": 2384.98,
+      "annotation": [
+        {
+          "text": "\tAnd it had to be carried to the German police. In the afternoon, since he also had this R and the same thing, he had to be at his working place, which was next to me. He sat right next to me. And he came in, and he told me how it happened.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "6fcae338-a623-4527-a6cc-c300217fbcc7"
+    },
+    {
+      "start_time": 2384.98,
+      "end_time": 2404.22,
+      "annotation": [
+        {
+          "text": "\tThey had brought in a group for execution. So they were brought to a village called Tustanowice. That's a village close Borysław. The Jews had previously to deliver a detachment of forced labor to dig a big grave.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "826dba38-afa9-4ad1-be1a-3eb9a655047f"
+    },
+    {
+      "start_time": 2404.22,
+      "end_time": 2437.75,
+      "annotation": [
+        {
+          "text": "\tOver this grave a plank-- it was an opening, I would say, three meters, which is three times three, 10, 11 feet deep by something like this, by something-- by 20 feet or 30 feet wide over this plank was laid. The people brought into execution had to undress completely to their skin. And they were very rough with them. The women, even the last moment they were ashamed.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c9acab70-f7d4-4535-8741-9b80bd484e85"
+    },
+    {
+      "start_time": 2437.75,
+      "end_time": 2463.01,
+      "annotation": [
+        {
+          "text": "\tThey tore off their-- their clothes. They examined them in the most brutal way, if they had hidden somewhere a piece of gold or something. He told me that some women clutched a picture of her child or something. They tore them off their hand, or a [INAUDIBLE] showing Magen David or something.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ac8cc7d9-79b6-46ce-928a-139066ec66e5"
+    },
+    {
+      "start_time": 2463.01,
+      "end_time": 2484.03,
+      "annotation": [
+        {
+          "text": "\tAnd they all had to march to this plank. At this plank stood the German policeman [? Mittas ?]. He was one of the Schutzpolizei. [? Mittas ?] was, in private life, a forester and a hunter for the Count of Lichtenburg. He was a professional hunter, a very good sharpshooter.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "62f45ef5-0a6d-4562-86bf-c8bfa4010de5"
+    },
+    {
+      "start_time": 2484.03,
+      "end_time": 2497.33,
+      "annotation": [
+        {
+          "text": "\tAnd he did this with zeal and enthusiasm. And he shot every victim in the back of his head. Well, after a while, if you shoot two, three, four, 500 people. You get tired.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "29ad4839-839b-4b1f-94ca-00961160b4bf"
+    },
+    {
+      "start_time": 2497.33,
+      "end_time": 2507.29,
+      "annotation": [
+        {
+          "text": "\tSo his hand wavered. He missed. So people half dead fell into the grave. Children were sometimes thrown in alive.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "311fa924-1db0-4629-a2ca-3bd69146ecf5"
+    },
+    {
+      "start_time": 2507.29,
+      "end_time": 2529.53,
+      "annotation": [
+        {
+          "text": "\tTwo Jewish men who were naked decided to run. They made a run for it. But the German mounted police gave chase. They caught them, trampled them with their horses till they were whimpering [? messes-- ?] they were still alive-- and threw these whimpering [? messes ?] into the grave.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1078f5b1-2906-41e6-861c-a4acbf728fa5"
+    },
+    {
+      "start_time": 2529.53,
+      "end_time": 2555.05,
+      "annotation": [
+        {
+          "text": "\tIn the grave sits an Ukrainian militiaman who staples-- puts one body on the other. Because space is at premium, after all. We have to hide to-- we have to cover three, four, five, 600, 800 people, something, thousand people. Space becomes quite-- so they had to be squeezed in, one close to each other.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "231839d1-d0ba-4487-850e-522765520473"
+    },
+    {
+      "start_time": 2555.05,
+      "end_time": 2568.58,
+      "annotation": [
+        {
+          "text": "\tAnd then they shoveled the grave over. Of course, many people, as I said, are half dead. So they fight against suffocation. The Germans don't make a secret out of it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "81c88b15-22ea-472d-86ad-62a507cdc473"
+    },
+    {
+      "start_time": 2568.58,
+      "end_time": 2600.3,
+      "annotation": [
+        {
+          "text": "\tSo the Poles and the Ukrainians who walk by [into the fields] say that the earth is rumbling. And I am told the earth sometimes rumbled-- the earth sometimes rumbled for two, three hours till it's quieted down. And that was one of the-- one of the-- at another time, this is also a very characteristic time. There is a Judenaktion, an action against Jews.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0cc836bb-ed07-4f19-9709-59e564218644"
+    },
+    {
+      "start_time": 2600.3,
+      "end_time": 2622.752,
+      "annotation": [
+        {
+          "text": "\tThey fall into the-- and they fall into all the-- in the ghetto. There was a time-- a time still a small ghetto in the ghetto. And they fall in the camp. And they tried to find out those guys who didn't have [INAUDIBLE] signs. And sometimes, if they have to fulfill their quota, the Jewish police will tear up the sign, throw it away, and take the guy anyhow.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a540745f-e819-4de0-88db-0bf4462d766f"
+    },
+    {
+      "start_time": 2622.752,
+      "end_time": 2623.17,
+      "annotation": [
+        {
+          "text": "\t[MACHINERY NOISE]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "48e96bba-3bd0-4906-b723-4b057bb03d3a"
+    },
+    {
+      "start_time": 2623.17,
+      "end_time": 2636.6,
+      "annotation": [
+        {
+          "text": "\tA Jewish drill master, I believe his name was Hartmann. I think his name was Hartmann jumps out of the window. The windows were low. It was inside the camp. He jumps out, tries to run.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0294862b-f00b-4ccb-bf73-012f1babca04"
+    },
+    {
+      "start_time": 2636.6,
+      "end_time": 2649.68,
+      "annotation": [
+        {
+          "text": "\tHe fell and broke his leg, or otherwise injured himself. He couldn't move. He lives down there moaning. It's characteristic, the-- the Germans were short-handed.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c046c20b-e6f0-46f2-9742-bccee667d6c4"
+    },
+    {
+      "start_time": 2649.68,
+      "end_time": 2665.22,
+      "annotation": [
+        {
+          "text": "\tThey didn't-- so there were some young Germans down there from their families who all belonged to the Hitler Youth, Hitlerjugend, and also young German girls. They helped. Die helfen aus, it's called in German. They helped out.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3811c122-b6b0-4748-8c70-ffca7ed487e1"
+    },
+    {
+      "start_time": 2665.22,
+      "end_time": 2687.66,
+      "annotation": [
+        {
+          "text": "\tSo they helped. They stood there and helped to surround and round up these Jews. So this officer goes and gives such a youngster a pistol and says finish this Jew. The Jew was laying on the \"Leg ihn um!\" Leg ihn um in German means tip him over. It's a slang word for kill him, Leg ihn um.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4966463d-c8d5-4192-891b-d56b870ba297"
+    },
+    {
+      "start_time": 2687.66,
+      "end_time": 2711.39,
+      "annotation": [
+        {
+          "text": "\tBut the kid was only a kid. He was maybe 12 or 13-years-old. No matter how-- you know, for a kid, it-- it suddenly-- he shuddered. He was afraid uh -- so the other SS man, who stood near say \"Lass den Jungen zu Ruhe,\" leave the kid in peace. The kid is afraid.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8b0b7f39-2461-4c76-8b58-ac21ea8ac524"
+    },
+    {
+      "start_time": 2711.39,
+      "end_time": 2728.38,
+      "annotation": [
+        {
+          "text": "\t\"Soll er lernen,\" cried the first one. He should learn. Now that is something. He should learn. He should learn how to kill defenseless people-- learning, you know? \"Soll er lernen,\" it sounds in my ears.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a73526c-9c8a-4992-839a-4b6c6b25af08"
+    },
+    {
+      "start_time": 2728.38,
+      "end_time": 2738.48,
+      "annotation": [
+        {
+          "text": "\tAt another time, a Jewish drill master-- drilling is a very dangerous job. Particularly the way it is done. It's dangerous, even right now.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "475cbe3f-ed14-47bf-9cc0-51c7f61a034b"
+    },
+    {
+      "start_time": 2738.48,
+      "end_time": 2757.23,
+      "annotation": [
+        {
+          "text": "\tBut drilling for oil particularly is a dangerous job. One handles heavy loads and heavy pieces of equipment. A Jewish drill master had a heavy drill, a six inch drill, a six inch drill weighs two or 3,000 pounds, fall on his feet, and crush his foot.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b2d81ec3-4448-482d-a3bc-cd10a1eb8d20"
+    },
+    {
+      "start_time": 2757.23,
+      "end_time": 2781.74,
+      "annotation": [
+        {
+          "text": "\tThey took him to the hospital. When the German policeman, by the name of [? Nemeth ?] I believe he was, found out that there's a crippled Jew in the hospital, he drove to the hospital. Has him carried out to [the lawn] and shot him in the head right in front of all the people. A wounded Jew was no good to them. He couldn't do any work anymore.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8cd7c999-ad6e-4868-b3b6-35c04fb5b7f2"
+    },
+    {
+      "start_time": 2781.74,
+      "end_time": 2807,
+      "annotation": [
+        {
+          "text": "\tThese atrocities went on day and night. They also transferred itself to the local population. The local population saw what's being done against us. And it's being done by the legal authorities. So they kind of assumed that that's all right to do.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "43e84dc9-3131-4bfb-a1cb-0c3720d63eb3"
+    },
+    {
+      "start_time": 2807,
+      "end_time": 2820.8,
+      "annotation": [
+        {
+          "text": "\tAnd everybody likes the idea of being better off than [INAUDIBLE]. Somebody is-- some famous Russian author has written an interesting novel about this. And he says Hitler built, like, a ladder.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "63921e27-b587-4cb9-a46a-75ebf094548c"
+    },
+    {
+      "start_time": 2820.8,
+      "end_time": 2842.28,
+      "annotation": [
+        {
+          "text": "\tOn top of it were the Germans, the Aryans. They're just the top of it. Below [INAUDIBLE] were the French, and so on and so forth, the English, the Polish Ukrainians. On the list, below the last line, there were the Jews. And everybody who was a few ranks higher feel better about it because there was still somebody who fel-- who was lower.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "18882802-acdb-4d39-aef7-eced72db9fc6"
+    },
+    {
+      "start_time": 2842.28,
+      "end_time": 2854.82,
+      "annotation": [
+        {
+          "text": "\tAnd this somehow creates a special psychosis. It makes people cruel towards people. Because they begin to feel we are the better ones.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fc2ae0c6-25e8-4e40-95ac-670af3ef7d1b"
+    },
+    {
+      "start_time": 2854.82,
+      "end_time": 2866.46,
+      "annotation": [
+        {
+          "text": "\tLike Hitler said, what do you worry about killing a Jew? You never worry about killing a cockroach or something. I mean, you just step on it. Who worries about killing a cockroach?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c68339c-1768-4ddb-944c-2dbe7915adeb"
+    },
+    {
+      "start_time": 2866.46,
+      "end_time": 2873.6,
+      "annotation": [
+        {
+          "text": "\tI saw this. I saw this with my own eyes. Hm. [COUGHS]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2d68ca71-ae09-478d-8d4d-640689187bb8"
+    },
+    {
+      "start_time": 2873.6,
+      "end_time": 2888.21,
+      "annotation": [
+        {
+          "text": "\tI was hidden on a roof. It was one of the Judenaktionen. Naturally, when there was an action, although we had all the papers, we tried to stay out. We tried to stay out of the mainstream.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a719a940-1bf9-4a2c-a5b0-6a9e7739882f"
+    },
+    {
+      "start_time": 2888.21,
+      "end_time": 2910.68,
+      "annotation": [
+        {
+          "text": "\tBecause, as I said, if the Jewish militia couldn't fulfill their number, [INAUDIBLE] threat exactly if you don't bring in-- if you bring in only 1,999 in 2,000, you're the 2,000th man. Instead of him being, he would have taken me. So I'd better stayed out. So I was hiding out.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b4e34f69-1441-4ee9-adc7-f085c1883cc8"
+    },
+    {
+      "start_time": 2910.68,
+      "end_time": 2933.42,
+      "annotation": [
+        {
+          "text": "\tThere was a hole. And I saw, as they let out the orphans, we had-- many-- many people died out of starvation. I was young and strong. I could run better. I was smart. I could somehow manage to barter something to steal some [INAUDIBLE] piece of bread, to-- I somehow could help myself.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9c3ab060-8a4f-4d30-a3c2-9ec8735145ca"
+    },
+    {
+      "start_time": 2933.42,
+      "end_time": 2949.13,
+      "annotation": [
+        {
+          "text": "\tBut many people couldn't. So they died. They had children. And the Jewish council created a orphanage where these children were kept. For a while, I was head of a Jewish workshop.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f0898d29-615b-4d02-9e50-19483392bf35"
+    },
+    {
+      "start_time": 2949.13,
+      "end_time": 2965.43,
+      "annotation": [
+        {
+          "text": "\tAnd I had 40 or 42,000 machinists. And we were given scraps of metal. And out of these scraps of metal, we made shovels for the German army. We could steal a few shovels and barter them with the local peasants for bread.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf60d996-0469-4f5f-b1ec-046328c01211"
+    },
+    {
+      "start_time": 2965.43,
+      "end_time": 2986.12,
+      "annotation": [
+        {
+          "text": "\tAnd also because we were working people, we get our rations [INAUDIBLE]. It was an ounce of bread, daily, an ounce of bread and a bowl of soup made out of bones of horse meat and so on and [INAUDIBLE]. Out of this ounce of bread, my workers cut off a tiny crumb and gave it to the orphanage.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fc507373-cdd1-473a-9f20-c0511a266e4d"
+    },
+    {
+      "start_time": 2986.12,
+      "end_time": 3004,
+      "annotation": [
+        {
+          "text": "\tBut finally, the order came to liquidate the orphanage. The children were afraid, and they cried. They wouldn't go out into the yard. So the head nurse sacrificed herself.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "99b3d688-2617-44ee-a1eb-b264d399bee6"
+    },
+    {
+      "start_time": 3004,
+      "end_time": 3017.32,
+      "annotation": [
+        {
+          "text": "\tThe head nurse had all these papers. She could have stayed alive. But the children cried. So she walked in front of them, and they followed her.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "48646a82-b02b-4e76-a8fe-adcb41f1ab80"
+    },
+    {
+      "start_time": 3017.32,
+      "end_time": 3048.04,
+      "annotation": [
+        {
+          "text": "\tOne of these children was a little blonde eyed-- I see him in front of my eyes, a little guy with blond hair and blue eyes. He was, maybe, [COUGHS] four or five years old. But the-- the Jewish mothers had indoctrinated their children. If you can run, run. He ran.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "337285c2-07aa-46c8-a361-e63565e486e6"
+    },
+    {
+      "start_time": 3048.04,
+      "end_time": 3060.07,
+      "annotation": [
+        {
+          "text": "\tThere was one German in front of the column. He couldn't leave the column to run after this one child, because the whole column would have dispersed. So he-- he lets it go.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a2fdf0e3-397d-4e9e-9018-0b768fad3613"
+    },
+    {
+      "start_time": 3060.07,
+      "end_time": 3083.62,
+      "annotation": [
+        {
+          "text": "\tA Polish woman saw the-- saw this little child. She grabbed him by the arm. She dragged him back and brought him to the German. Not only did she drag him back, she laughed and said they will give you candy. [COUGHS]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ff355ec6-f0af-4d68-bfac-dbc70fb7ed50"
+    },
+    {
+      "start_time": 3083.62,
+      "end_time": 3118.17,
+      "annotation": [
+        {
+          "text": "\tWell, this brutalization was going on all the time, all the time. I saw a Jewish militiaman bringing his own mother to the collecting point. There was a collecting point, a previous cinema, where they collected the prisoners before they delivered them to the Germans, who either shipped them by railroad to annihilation places or shot them in Tustanowice.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "2b5d694d-db67-420b-8e2c-6bcaea5535b2"
+    },
+    {
+      "start_time": 3118.17,
+      "end_time": 3143.86,
+      "annotation": [
+        {
+          "text": "\tAnd-- they-- I-- when this happened-- oh, I wanted to-- oh, [INAUDIBLE] sorry it is-- I wanted to tell about this bru-- the total brutalization. This Jewish militiamen brought in his own mother. I knew him.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "68c57b67-23f6-4ce7-95ce-2b6f27a2b030"
+    },
+    {
+      "start_time": 3143.86,
+      "end_time": 3153.13,
+      "annotation": [
+        {
+          "text": "\tHe was-- he was a man who worked in the oil fields. In an oil field, an engineer is sort of a distinguished person. They all always addressed me Mr. Engineer.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a9e575e0-e268-4154-bef3-4173d916e9b5"
+    },
+    {
+      "start_time": 3153.13,
+      "end_time": 3154.96,
+      "annotation": [
+        {
+          "text": "\t[TELEPHONE RINGING]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "491fb0b2-6cba-441e-9c45-55141b2d077e"
+    },
+    {
+      "start_time": 3154.96,
+      "end_time": 3166.1,
+      "annotation": [
+        {
+          "text": "\tThey showed me some sort of respect. I looked at him. He was bringing in his own mother. He said, what can I do? I have to bring in a certain number of people.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7e29e825-1da7-462c-a63b-b338c0098106"
+    },
+    {
+      "start_time": 3166.1,
+      "end_time": 3181.6,
+      "annotation": [
+        {
+          "text": "\tIf I don't bring it-- her in today, they will bring-- take me. And they will grab her in tomorrow. So I'm bringing her in today.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b2f08fdc-50d7-4c61-9904-10eac49bcd4f"
+    },
+    {
+      "start_time": 3181.6,
+      "end_time": 3200.85,
+      "annotation": [
+        {
+          "text": "\tOne quite often had to bribe those, uh, those Jewish militiamen. I remember one particular scene. By nowadays standards, it's nothing unusual. But I don't know. There-- there was the barracks. They're divided in a female part and a male part.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0cb1a899-1305-4131-8593-d5e67ca94bfc"
+    },
+    {
+      "start_time": 3200.85,
+      "end_time": 3220.24,
+      "annotation": [
+        {
+          "text": "\tAnd I tried to walk out of it there-- but there was only one exit. There was a nice, good looking, young Jewish woman walking. And this militiaman came along. He grabs her. Throws her on a bunch of rags which were laying next to the door and starts having sex with her.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "446301a7-52b2-49a7-85a8-9c5dae118de4"
+    },
+    {
+      "start_time": 3220.24,
+      "end_time": 3236.02,
+      "annotation": [
+        {
+          "text": "\tNobody could walk by. Because they-- the door, there was only one door, and they were just laying right in front of the door. After a while, he got up. I looked at him. And again, he said to me, Mr. Engineer, I am protecting her.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c66c0d5-a799-46c6-a1eb-bf6dbcc1a0e0"
+    },
+    {
+      "start_time": 3236.02,
+      "end_time": 3255.58,
+      "annotation": [
+        {
+          "text": "\tHe felt he's in his own rights. I am looking the other side. She has no papers when she is around. I am protecting her. She owes me. Besides we both will die tomorrow anyhow, or a day after tomorrow, so what's the big difference?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "60104e50-b818-4263-b9f3-664a2e6dc5a5"
+    },
+    {
+      "start_time": 3255.58,
+      "end_time": 3299.88,
+      "annotation": [
+        {
+          "text": "\tWell, these people, the German police, whom I said-- the Schutzpolizei, some of their names, which I remember, like [? Mittas, [INAUDIBLE NAMES] ?] their captain was called Wippert. Wippert was a specially vicious man, especially vicious man. Again, if he had to deliberate 1,800 people, he would collect 2,000, 2,500, and starts to bargain, you know, and collect gold from the people who he let go, because he only had to go-- besides he took great pride that instead of 2,000, he delivered 2,200.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "79ee27d0-1194-4cf7-8c9b-06a871af1ce6"
+    },
+    {
+      "start_time": 3299.88,
+      "end_time": 3320.34,
+      "annotation": [
+        {
+          "text": "\tOne scene, which was told to me by Max Hendler, is Wippert had collected-- they had collected all these people and brought them to the collecting point. And there was a hunchback among them. Of course, this was a terrific [? guy, ?] a hunchback. But this hunchback was apparently quite wealthy. And he had managed to survive.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b0b6d337-11ea-4464-b830-f8baf0960263"
+    },
+    {
+      "start_time": 3320.34,
+      "end_time": 3343.27,
+      "annotation": [
+        {
+          "text": "\tThe hunchback was there. Wippert came in to inspect his catch. And the hunchback, who had-- I forgot his name-- who had some money hidden somewhere, or some valuables, [INAUDIBLE] said \"Mister -- Captain Wippert, I have some gold and pearls and so on hidden somewhere. If you let me go, I will let you have.\"\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "53830a30-5bd0-4eae-b0e9-7a590623d7b7"
+    },
+    {
+      "start_time": 3343.27,
+      "end_time": 3350.34,
+      "annotation": [
+        {
+          "text": "\tAnd Wippert started to beat him. A hunchback wants to be alive. He beats him. He threw him to the floor.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a80d8e70-dfa7-469c-8714-33423a32ff87"
+    },
+    {
+      "start_time": 3350.34,
+      "end_time": 3358.5,
+      "annotation": [
+        {
+          "text": "\tAnd he wore spurs, at that time, on his boots. And with his spurs, he [? riddled ?] his face. And everybody was laughing.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0a1bd0a6-2e52-4a50-beeb-d97d20b3271c"
+    },
+    {
+      "start_time": 3358.5,
+      "end_time": 3370.78,
+      "annotation": [
+        {
+          "text": "\tThe Germans were laughing their head off. A hunchback wants to be alive. A hunchback has no right to be alive, does he?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "393b0576-d00f-4537-bff8-7383d4af34ce"
+    },
+    {
+      "start_time": 3370.78,
+      "end_time": 3390.16,
+      "annotation": [
+        {
+          "text": "\tThey kept decreasing this-- this camp all the time. And uh, we were down there. We built a big tunnel. I have built a big tunnel from the camp to the outside under the fence.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "db59044e-3b9f-48ec-b0b8-9b4f2246c0b5"
+    },
+    {
+      "start_time": 3390.16,
+      "end_time": 3410.03,
+      "annotation": [
+        {
+          "text": "\tI delivered a child from this camp. A child was born in this camp, and it would have been killed right away. I delivered it to the fence. And it is alive right now somewhere in Israel. [COUGHS]\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "29928659-e1ec-4dac-b13b-fbc0eed15c86"
+    },
+    {
+      "start_time": 3410.03,
+      "end_time": 3416.07,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: How was that kind of thing possible, you know, without the detection of the Germans, and--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7273ce6e-5af8-4542-b401-4f44e4d1e086"
+    },
+    {
+      "start_time": 3416.07,
+      "end_time": 3421.8,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: They looked away, the other side. We didn't think about it. There was-- there were not so many people.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5bc03f8b-d8c6-4fc9-b944-d984dee03ffe"
+    },
+    {
+      "start_time": 3421.8,
+      "end_time": 3439.08,
+      "annotation": [
+        {
+          "text": "\tDon't you [? forget, ?] this was 1943. Stalingrad had eaten up most of the German forces. Anyone who could carry a rifle was at Stalingrad. The Ukrainian militia, they sometimes would have done something. They didn't care.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f702b2aa-73f1-43ba-9983-717473576c1c"
+    },
+    {
+      "start_time": 3439.08,
+      "end_time": 3460.32,
+      "annotation": [
+        {
+          "text": "\tAnd it was sheer luck. It was sheer luck. We were just alive by a string of-- of lucky coincidences. At one time, this I have to describe-- there was a Judenaktion against the Jews. The camp wasn't yet-- fully established yet.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "99ad27b0-c2e0-4204-b852-ae95ed414e0d"
+    },
+    {
+      "start_time": 3460.32,
+      "end_time": 3477.75,
+      "annotation": [
+        {
+          "text": "\tThey [? [ran from home to home] ?] and they rounded up Jews who didn't have papers, who didn't have professions and so on, they just rounded them up. Now I found out about it. I was work-- I was going to work with my wife in a column. I found out about it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7eff1f53-425d-43f0-8907-fd5b5479f3e3"
+    },
+    {
+      "start_time": 3477.75,
+      "end_time": 3495.31,
+      "annotation": [
+        {
+          "text": "\tAnd there was no place for her to hide. I knew a Jewish militiaman. He used to be a drilling master on one of my oil wells or some-- but I knew him. He knew me. So I knew where he lived.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c66c226f-4255-4cb4-8910-bad0fcfd22f5"
+    },
+    {
+      "start_time": 3495.31,
+      "end_time": 3503.28,
+      "annotation": [
+        {
+          "text": "\tSo I took my wife and went to his house. He went to his house. And I said to him, you know what's going on? He said I know what's going on.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e0a4cf3c-2a06-4aca-8910-6fc873eac2c8"
+    },
+    {
+      "start_time": 3503.28,
+      "end_time": 3516.83,
+      "annotation": [
+        {
+          "text": "\tI cannot help you. I have hidden my wife among some Poles. I had no place to go. So I said let me stay in your apartment. He said, OK, stay in my apartment.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f25afcc5-9032-4281-a2d7-1680e559235a"
+    },
+    {
+      "start_time": 3516.83,
+      "end_time": 3525.77,
+      "annotation": [
+        {
+          "text": "\tHe locked the apartment. He gave me the key. And he went away. I hear that they are breaking in all the doors in the neighboring apartments.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ada4f9cc-4058-4823-ba13-0e7849332b0d"
+    },
+    {
+      "start_time": 3525.77,
+      "end_time": 3541.94,
+      "annotation": [
+        {
+          "text": "\tIn the last moment, I had an idea. I throwed out a piece of paper somewhere from a book or something and scribbled on it. The name-- the owner of this apartment is Mr. Kalt. Mr. Kalt is a militiaman with the Jewish militia.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3d588428-2c07-4866-9cbf-f0ba18eb588b"
+    },
+    {
+      "start_time": 3541.94,
+      "end_time": 3552.92,
+      "annotation": [
+        {
+          "text": "\tHe is in service. \"Ich bin im Dienst.\" German. And I pulled out a pin from somewhere, and I nailed it to the outside of the door. And I locked the door.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ab0a3018-0cb5-421c-966c-b5f565a7fc54"
+    },
+    {
+      "start_time": 3552.92,
+      "end_time": 3565.46,
+      "annotation": [
+        {
+          "text": "\tA few seconds later, the German, \"Oh,\" sagt, \"Der Mann ist im Dienst.\" The man is in service. And he left without breaking in. That's the reason I'm alive.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ad88bfa-0b12-463d-89a1-598a7e9ab943"
+    },
+    {
+      "start_time": 3565.46,
+      "end_time": 3598.77,
+      "annotation": [
+        {
+          "text": "\tThey also-- the-- this fellow [? Mittas ?] from the police, whose name I mentioned so often, kills also an awful lot of other people. There were quite a few Russian prisoners of war working in the fields and in the oil fields and working around all the industrial establishment. And there was a group of women soldiers. They had a-- a fem-- [CLEARS THROAT] a woman captain was there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5df2a906-145b-46b3-88b1-07c3d957cdee"
+    },
+    {
+      "start_time": 3598.77,
+      "end_time": 3622.47,
+      "annotation": [
+        {
+          "text": "\tAnd one of those days, uh, they were ordered to carry munitions from one railroad car to the other. And the woman captain rounded up the soldiers and said, we are not going to carry ammunition to kill our brothers. So they killed them all right there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ff7fa0a7-f1eb-48bf-9bd0-7649e5a1d3ba"
+    },
+    {
+      "start_time": 3622.47,
+      "end_time": 3629.07,
+      "annotation": [
+        {
+          "text": "\tNow--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5fc0ee2a-521f-4924-a1fe-1e38332b1cf3"
+    },
+    {
+      "start_time": 3629.07,
+      "end_time": 3633.61,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: You and your wife were together during this entire period?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "62038e3f-10cf-4bb4-a83a-582c3e328b60"
+    },
+    {
+      "start_time": 3633.61,
+      "end_time": 3673.85,
+      "annotation": [
+        {
+          "text": "\tERIC HOUSER: Sometimes-- sometimes she was in the female part and I was in the male part. But later on-- oh, as we built up-- as we built up this department of Beskidenerdoel, this, which I didn't say-- the oil wells were finally taken over by a company called Beskidenerdoel, which means crude oil of the Beskid Mountains. This Beskidenerdoel was, uh-- the man who had it was a man by the name of Beitz. He was given the title of the Righteous One from the Yad Vashem.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5465c09a-e934-4a21-ae68-363ea67fe662"
+    },
+    {
+      "start_time": 3673.85,
+      "end_time": 3690.2,
+      "annotation": [
+        {
+          "text": "\tI am not so sure that he is the one who deserves it. But he was given. He supposedly-- he supposedly, by his actions, saved, they say, some 2,000 Jews. When we counted ourselves after the war, there were only 200 of us alive.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "883117d2-1933-4f04-b472-e0d9955132e0"
+    },
+    {
+      "start_time": 3690.2,
+      "end_time": 3720.66,
+      "annotation": [
+        {
+          "text": "\tWell, anyhow-- so I worked for this Beskiden. And being an engineer, I got a little, uh, I know, 10 by 10 chamber, which was in the camp where I could live with my wife. They told us when-- and they assigned us to office work. When they assigned us to office work, they told us you have to be every day, every day shaved and washed. Of course, nobody gave us any soap or anything.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ea0b67f8-2de9-49c8-9ade-ec6b3c5518f2"
+    },
+    {
+      "start_time": 3720.66,
+      "end_time": 3736.11,
+      "annotation": [
+        {
+          "text": "\tBut we were lucky, because in Borysław is a source of natural gas. And most of these buildings had natural gas piped into the building. So warm water was always available. That's the way we could keep ourselves clean.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "31466d9b-630e-4f9a-96e4-70f3e1e7bb5c"
+    },
+    {
+      "start_time": 3736.11,
+      "end_time": 3742.298,
+      "annotation": [
+        {
+          "text": "\tPeople who didn't keep themselves clean were doomed to death. They either died of typhoid or fever or were shot by the Ger--"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd039474-c99d-4f1a-b9e4-49b59e7c4890"
+    }
+  ]
+}

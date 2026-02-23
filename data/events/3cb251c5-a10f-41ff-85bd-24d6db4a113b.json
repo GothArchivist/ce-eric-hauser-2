@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "66342018-701e-432c-b1f6-6995690e8942": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/094/912/original/open-uri20200721-25675-1vlvs8j.mov?1595320020",
+      "duration": 3742.08333,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Videotape testimony of Eric H., who was born in Gródek, Poland in 1908. He describes his family; engineering studies in Czechoslovakia; moving to Galicia for employment; and the demoralizing impact of Russian occupation in 1939. Mr. H. recalls joining his parents in Lviv; his marriage; moving to Boryslav; the May 1941 arrest of schoolchildren for celebrating a Polish holiday; the German attack in June; a brutal pogrom in which Jews were killed by the local population when the bodies of the arrested children were found and it was rumored Jews were responsible; and moral dilemmas of the Judenrat in implementing German deportations. Mr. H. remembers mass killings and atrocities; a German supervisor who saved him and his wife; being hidden with sixteen Jews for six weeks by a Ukrainian; liberation by Russians; fear of the Russians and of Polish antisemitism; escape to Germany; directing an ORT school; and emigration to the United States in 1949. In this vivid and detailed testimony, Mr. E. reflects upon the impact of the Soviet occupation in creating a passive response to the Germans and the role of the human spirit and luck in survival.\n\n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-23T15:25:31.604Z",
+  "created_by": "GothArchivist",
+  "label": "Media File 1 of 2 - open-uri20200721-25675-1vlvs8j.mov",
+  "updated_at": "2026-02-23T15:25:31.604Z",
+  "updated_by": "GothArchivist",
+  "rights_statement": ""
+}
