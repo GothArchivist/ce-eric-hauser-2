@@ -13,6 +13,33 @@
       "type": "paragraph",
       "children": [
         {
+          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://yaleedu-my.sharepoint.com/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/poster.jpg",
+      "caption": "Eric Hauser",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "When Isaak Hauser’s young parents celebrated his birth on May 25, 1908 in Grodek Jagiellonski, Poland (now Horodok, Ukraine), they could not have foreseen what was to befall their generation of Jews living in the Polish-Ukrainian borderlands: total war, the collapse of empires, the Bolshevik revolution, pogroms, the rise of fascism, more war, and the Holocaust. They could not have imagined the end of their family and of Jewish life as they knew it in the Austro-Hungarian Empire. Only Isaak would survive to bear witness to what happened. In 1943, Isaak’s mother Liebe (b. 1885), his father Moses (b. 1885) and his younger siblings Hilda (b. 1910) and Aron (b. 1914) were all murdered. The details of their deaths are not known. Isak surmises that they died in the Janowska camp in the western region of Ukraine, known as Galicia, near its capital city of Lwów. They may also have been deported from that camp to the Nazi gassing centers of Belzec or Sobibor in Poland. "
         }
       ]
@@ -836,7 +863,7 @@
   "created_at": "2026-02-22T19:30:52.070Z",
   "created_by": "GothArchivist",
   "title": "Eric Hauser Critical Edition 2",
-  "updated_at": "2026-02-23T01:22:37.865Z",
+  "updated_at": "2026-02-23T01:43:11.376Z",
   "updated_by": "GothArchivist",
   "autogenerate": {
     "enabled": false,
